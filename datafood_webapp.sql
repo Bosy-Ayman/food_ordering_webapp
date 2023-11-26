@@ -19,7 +19,7 @@ CREATE TABLE Administrator (
     FOREIGN KEY (user_ID) REFERENCES users(ID)
 );
 CREATE TABLE Menu(
-	Name CHAR(10),
+	Name varCHAR,
 	Price INT,
 	Category char(20),
 	 Admin_ID INT,  
