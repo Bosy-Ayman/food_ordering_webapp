@@ -67,3 +67,20 @@ Review_id INT, FOREIGN KEY (Review_id) REFERENCES Review(Review_id),
 customer_id INT, FOREIGN KEY (customer_id) REFERENCES customer(customer_id),
 
 );
+
+CREATE TABLE Makes_order(
+order_id INT, FOREIGN KEY (order_id) REFERENCES The_Order(order_id),
+customer_id INT, FOREIGN KEY (customer_id) REFERENCES customer(customer_id),
+
+);
+
+CREATE TABLE Makes_payment(
+Review_id INT, FOREIGN KEY (Review_id) REFERENCES Review(Review_id),
+customer_id INT, FOREIGN KEY (customer_id) REFERENCES customer(customer_id),
+);
+
+
+CREATE TABLE Has_order(
+order_itemsID INT, FOREIGN KEY (order_itemsID) REFERENCES Orderitems(order_itemsID),
+order_id INT, FOREIGN KEY (order_id) REFERENCES The_Order(order_id),
+);
