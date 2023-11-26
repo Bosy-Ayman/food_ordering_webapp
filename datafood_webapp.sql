@@ -54,3 +54,10 @@ CREATE TABLE Promotion (
     Order_ID INT,
     FOREIGN KEY (Order_ID) REFERENCES The_Order(Order_ID)
 );
+
+CREATE TABLE Review (
+ Review_id int primary key,
+ rate int,
+ comment varchar,
+
+);
