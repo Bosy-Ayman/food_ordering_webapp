@@ -61,3 +61,9 @@ CREATE TABLE Review (
  comment varchar,
 
 );
+
+CREATE TABLE Makes_review(
+Review_id INT, FOREIGN KEY (Review_id) REFERENCES Review(Review_id),
+customer_id INT, FOREIGN KEY (customer_id) REFERENCES customer(customer_id),
+
+);
