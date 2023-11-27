@@ -91,7 +91,7 @@ DROP TABLE IF EXISTS order_items  ;
 
 CREATE TABLE order_items(
     order_item_ID int Primary key,
-	order_iD int primary key,
+	order_iD int,
 	image_url varchar ,
 	menu_item_id INT,
 	cart_id int,
@@ -102,13 +102,14 @@ CREATE TABLE order_items(
 CREATE TABLE order_has_cust(
 order_item_ID INT,
 FOREIGN KEY (order_item_ID) REFERENCES order_items(order_item_ID),
+FOREIGN KEY (customization_id) REFERENCES order_has_cust(customization_id),
+
 customization_id INT primary KEY,
 );
-DROP TABLE IF EXISTS  customizations ;
+DROP TABLE IF EXISTS  customizations ,order_has_cust;
 
 CREATE TABLE customizations (
-    customization_id int,
-    FOREIGN KEY (customization_id) REFERENCES order_has_cust(customization_id),
+	customization_id INT primary KEY,
 	price INT  ,
 	avalilibility char ,
 	description char,
@@ -117,8 +118,8 @@ DROP TABLE IF EXISTS   has_order ;
 CREATE TABLE  has_order(
        order_item_ID  int,
        FOREIGN KEY (order_item_ID) REFERENCES order_items(order_item_ID),
-	   order_iD int,
-	   FOREIGN KEY (order_iD) REFERENCES order_items(order_iD),
+	   order_ID int , 
+	   FOREIGN KEY (order_ID) REFERENCES the_order(order_ID),
 
 );
 
