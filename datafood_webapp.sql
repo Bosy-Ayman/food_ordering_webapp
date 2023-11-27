@@ -68,22 +68,12 @@ customer_id INT, FOREIGN KEY (customer_id) REFERENCES customer(customer_id),
 
 );
 
-CREATE TABLE Makes_order(
-order_id INT, FOREIGN KEY (order_id) REFERENCES The_Order(order_id),
-customer_id INT, FOREIGN KEY (customer_id) REFERENCES customer(customer_id),
-
-);
 
 CREATE TABLE Makes_payment(
 Review_id INT, FOREIGN KEY (Review_id) REFERENCES Review(Review_id),
 customer_id INT, FOREIGN KEY (customer_id) REFERENCES customer(customer_id),
 );
 
-
-CREATE TABLE Has_order(
-order_itemsID INT, FOREIGN KEY (order_itemsID) REFERENCES Order_items(order_itemsID),
-order_id INT, FOREIGN KEY (order_id) REFERENCES The_Order(order_id),
-);
 
 CREATE TABLE order_items(
     order_item_ID int Primary key,
@@ -95,6 +85,15 @@ CREATE TABLE order_items(
 	items_id int ,
 );
 
+CREATE TABLE Has_order(
+order_item_ID INT, FOREIGN KEY (order_item_ID) REFERENCES Order_items(order_item_ID),
+Order_ID INT, FOREIGN KEY (Order_ID) REFERENCES The_Order(Order_ID),
+);
+CREATE TABLE Makes_order(
+order_id INT, FOREIGN KEY (order_id) REFERENCES The_Order(order_id),
+customer_id INT, FOREIGN KEY (customer_id) REFERENCES customer(customer_id),
+
+);
 CREATE TABLE order_has_cust(
 order_item_ID INT,
 FOREIGN KEY (order_item_ID) REFERENCES order_items(order_item_ID),
@@ -102,11 +101,10 @@ FOREIGN KEY (customization_id) REFERENCES order_has_cust(customization_id),
 
 customization_id INT primary KEY,
 );
-DROP TABLE IF EXISTS customizations ;
 CREATE TABLE customizations (
 	customization_id INT primary KEY,
 	price INT  ,
-	avalilibility varchar(10) ,
+	availability varchar(10) ,
 	description char,
 );
 
