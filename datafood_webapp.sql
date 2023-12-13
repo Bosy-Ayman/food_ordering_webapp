@@ -46,9 +46,8 @@ CREATE TABLE The_Order (
     Total_Price DECIMAL(10, 2),
     OrderDateTime DATETIME
 );
-
 CREATE TABLE Promotion (
-    Coupon_ID INT,  -- is it P_KEY?
+    Coupon_ID INT primary key,  -- is it P_KEY?
     Code VARCHAR(20),	 
     Discount_Percentage FLOAT,
     Order_ID INT,
@@ -63,20 +62,20 @@ CREATE TABLE Review (
 
 );
 
-CREATE TABLE Makes_review(
+CREATE TABLE CustomerReviews(
 Review_id INT, FOREIGN KEY (Review_id) REFERENCES Review(Review_id),
 customer_id INT, FOREIGN KEY (customer_id) REFERENCES customer(customer_id),
 
 );
 
-CREATE TABLE Makes_order(
+/*CREATE TABLE Makes_order(
 order_id INT, FOREIGN KEY (order_id) REFERENCES The_Order(order_id),
 customer_id INT, FOREIGN KEY (customer_id) REFERENCES customer(customer_id),
 
 );
-
+*/
 CREATE TABLE CustomerPayments(
-Review_id INT, FOREIGN KEY (Review_id) REFERENCES Review(Review_id),
+Coupon_id INT, FOREIGN KEY (coupon_id) REFERENCES Promotion(Coupon_id),
 customer_id INT, FOREIGN KEY (customer_id) REFERENCES customer(customer_id),
 );
 
@@ -87,9 +86,9 @@ order_id INT, FOREIGN KEY (order_id) REFERENCES The_Order(order_id),
 );
 
 CREATE TABLE order_items(
-order_id int,
+/*order_id int,*/
 image_url varchar(30),
-menu_item_id int,
+/*menu_item_id int,*/
 orde_item_id int primary key,
 cart_id int,
 items_id int,
