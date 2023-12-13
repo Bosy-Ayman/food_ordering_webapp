@@ -1,4 +1,4 @@
-USE datafood_webapp;
+USE food_webapp;
 
 CREATE TABLE customer (
     customer_id INT PRIMARY KEY
@@ -11,25 +11,24 @@ CREATE TABLE users (
 );
 CREATE TABLE Administrator (
     Admin_ID INT PRIMARY KEY,
-    Admin_name VARCHAR(20),
-    Email varchar(50),
+    Admin_name CHAR(20),
+    Email CHAR(40),
     phone_number INT,
     Password CHAR(10),
     user_ID INT,  
     FOREIGN KEY (user_ID) REFERENCES users(ID)
 );
-
 CREATE TABLE Menu(
-	Name VARCHAR,
+	Name varCHAR,
 	Price INT,
-	Category varchar(20),
+	Category char(20),
 	 Admin_ID INT,  
     FOREIGN KEY (Admin_ID) REFERENCES Administrator(Admin_ID)
 );
 CREATE TABLE Payment(
 	code INT,
-	Coupon_ID INT Primary key,
-	Type varChar(20),
+	Coupon_ID INT, -- is it primary key?
+	Type Char(20),
 	customer_id INT,
     FOREIGN KEY (customer_id) REFERENCES customer(customer_id)
 );
@@ -38,18 +37,19 @@ CREATE TABLE cart (
     Cart_ID INT PRIMARY KEY
 );
 
+DROP TABLE IF EXISTS the_order;
 CREATE TABLE The_Order (
     Order_ID INT Primary KEY,	
     customer_id INT,
     FOREIGN KEY (customer_id) REFERENCES customer(customer_id),
-    Status varchar(50),
+    Status CHAR(20),
     Total_Price DECIMAL(10, 2),
     OrderDateTime DATETIME
 );
 
 CREATE TABLE Promotion (
-    Coupon_ID INT Primary key,  
-    Code VARCHAR(10),	 
+    Coupon_ID INT,  -- is it P_KEY?
+    Code VARCHAR(20),	 
     Discount_Percentage FLOAT,
     Order_ID INT,
     FOREIGN KEY (Order_ID) REFERENCES The_Order(Order_ID)
@@ -58,7 +58,8 @@ CREATE TABLE Promotion (
 CREATE TABLE Review (
  Review_id int primary key,
  rate int,
- comment varchar(200),
+ comment varchar,
+ the_date Date
 
 );
 
@@ -68,44 +69,31 @@ customer_id INT, FOREIGN KEY (customer_id) REFERENCES customer(customer_id),
 
 );
 
-
-CREATE TABLE Makes_payment(
-Review_id INT, FOREIGN KEY (Review_id) REFERENCES Review(Review_id),
-customer_id INT, FOREIGN KEY (customer_id) REFERENCES customer(customer_id),
-);
-
-
-CREATE TABLE order_items(
-    order_item_ID int Primary key,
-	order_iD int,
-	image_url varchar ,
-	menu_item_id INT,
-	cart_id int,
-	user_id int,
-	items_id int ,
-);
-
-CREATE TABLE Has_order(
-order_item_ID INT, FOREIGN KEY (order_item_ID) REFERENCES Order_items(order_item_ID),
-Order_ID INT, FOREIGN KEY (Order_ID) REFERENCES The_Order(Order_ID),
-);
 CREATE TABLE Makes_order(
 order_id INT, FOREIGN KEY (order_id) REFERENCES The_Order(order_id),
 customer_id INT, FOREIGN KEY (customer_id) REFERENCES customer(customer_id),
 
 );
-CREATE TABLE order_has_cust(
-order_item_ID INT,
-FOREIGN KEY (order_item_ID) REFERENCES order_items(order_item_ID),
-FOREIGN KEY (customization_id) REFERENCES order_has_cust(customization_id),
 
-customization_id INT primary KEY,
-);
-CREATE TABLE customizations (
-	customization_id INT primary KEY,
-	price INT  ,
-	availability varchar(10) ,
-	description char,
+CREATE TABLE CustomerPayments(
+Review_id INT, FOREIGN KEY (Review_id) REFERENCES Review(Review_id),
+customer_id INT, FOREIGN KEY (customer_id) REFERENCES customer(customer_id),
 );
 
 
+CREATE TABLE Has_order(
+order_itemsID INT, FOREIGN KEY (order_itemsID) REFERENCES Orderitems(order_itemsID),
+order_id INT, FOREIGN KEY (order_id) REFERENCES The_Order(order_id),
+);
+
+CREATE TABLE order_items(
+order_id int,
+image_url varchar(30),
+menu_item_id int,
+orde_item_id int primary key,
+cart_id int,
+items_id int,
+users_id int,
+
+FOREIGN KEY (cart_id) REFERENCES cart(cart_id)
+);
