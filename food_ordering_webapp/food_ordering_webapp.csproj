@@ -6,4 +6,10 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="ui\home page\" />
+    <Folder Include="ui\user\" />
+    <Folder Include="Views\Home\" />
+  </ItemGroup>
+
 </Project>
