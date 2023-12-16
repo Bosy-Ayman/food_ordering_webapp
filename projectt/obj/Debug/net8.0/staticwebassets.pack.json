@@ -1,0 +1,1573 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\projectt.bundle.scp.css",
+      "PackagePath": "staticwebassets\\projectt.bundle.scp.css"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\css\\animate.css",
+      "PackagePath": "staticwebassets\\css\\animate.css"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\css\\bootstrap-datetimepicker.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-datetimepicker.min.css"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\css\\flexslider.css",
+      "PackagePath": "staticwebassets\\css\\flexslider.css"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\css\\icomoon.css",
+      "PackagePath": "staticwebassets\\css\\icomoon.css"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\css\\simple-line-icons.css",
+      "PackagePath": "staticwebassets\\css\\simple-line-icons.css"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\css\\style.css.map"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\css_login\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css_login\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\css_login\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css_login\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\css_login\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css_login\\owl.carousel.min.css"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\css_login\\style.css",
+      "PackagePath": "staticwebassets\\css_login\\style.css"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\css_single_product\\32px.png",
+      "PackagePath": "staticwebassets\\css_single_product\\32px.png"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\css_single_product\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css_single_product\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\css_single_product\\style.css",
+      "PackagePath": "staticwebassets\\css_single_product\\style.css"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\css_single_product\\throbber.gif",
+      "PackagePath": "staticwebassets\\css_single_product\\throbber.gif"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\css_single_product\\tree-viewer.css",
+      "PackagePath": "staticwebassets\\css_single_product\\tree-viewer.css"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\documentation\\img_single_product\\favicon.ico",
+      "PackagePath": "staticwebassets\\documentation\\img_single_product\\favicon.ico"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\documentation\\img_single_product\\logo.png",
+      "PackagePath": "staticwebassets\\documentation\\img_single_product\\logo.png"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\documentation\\index.html",
+      "PackagePath": "staticwebassets\\documentation\\index.html"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\fonts\\bootstrap\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\fonts\\bootstrap\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\fonts\\bootstrap\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\fonts\\bootstrap\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\fonts\\bootstrap\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\bootstrap\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\fonts\\bootstrap\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\fonts\\bootstrap\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\fonts\\bootstrap\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\fonts\\bootstrap\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\fonts\\icomoon\\icomoon.eot",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\icomoon.eot"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\fonts\\icomoon\\icomoon.svg",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\icomoon.svg"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\fonts\\icomoon\\icomoon.ttf",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\icomoon.ttf"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\fonts\\icomoon\\icomoon.woff",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\icomoon.woff"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\fonts\\icomoon\\icomoon\\Read Me.txt",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\icomoon\\Read Me.txt"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\fonts\\icomoon\\icomoon\\demo-files\\demo.css",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\icomoon\\demo-files\\demo.css"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\fonts\\icomoon\\icomoon\\demo-files\\demo.js",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\icomoon\\demo-files\\demo.js"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\fonts\\icomoon\\icomoon\\demo.html",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\icomoon\\demo.html"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\fonts\\icomoon\\icomoon\\fonts\\icomoon.eot",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\icomoon\\fonts\\icomoon.eot"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\fonts\\icomoon\\icomoon\\fonts\\icomoon.svg",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\icomoon\\fonts\\icomoon.svg"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\fonts\\icomoon\\icomoon\\fonts\\icomoon.ttf",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\icomoon\\fonts\\icomoon.ttf"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\fonts\\icomoon\\icomoon\\fonts\\icomoon.woff",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\icomoon\\fonts\\icomoon.woff"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\fonts\\icomoon\\icomoon\\selection.json",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\icomoon\\selection.json"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\fonts\\icomoon\\icomoon\\style.css",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\icomoon\\style.css"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\fonts\\simple-line-icons\\Simple-Line-Icons.eot",
+      "PackagePath": "staticwebassets\\fonts\\simple-line-icons\\Simple-Line-Icons.eot"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\fonts\\simple-line-icons\\Simple-Line-Icons.svg",
+      "PackagePath": "staticwebassets\\fonts\\simple-line-icons\\Simple-Line-Icons.svg"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\fonts\\simple-line-icons\\Simple-Line-Icons.ttf",
+      "PackagePath": "staticwebassets\\fonts\\simple-line-icons\\Simple-Line-Icons.ttf"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\fonts\\simple-line-icons\\Simple-Line-Icons.woff",
+      "PackagePath": "staticwebassets\\fonts\\simple-line-icons\\Simple-Line-Icons.woff"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\fonts\\simple-line-icons\\Simple-Line-Icons.woff2",
+      "PackagePath": "staticwebassets\\fonts\\simple-line-icons\\Simple-Line-Icons.woff2"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\fonts_login\\icomoon\\Read Me.txt",
+      "PackagePath": "staticwebassets\\fonts_login\\icomoon\\Read Me.txt"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\fonts_login\\icomoon\\demo-files\\demo.css",
+      "PackagePath": "staticwebassets\\fonts_login\\icomoon\\demo-files\\demo.css"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\fonts_login\\icomoon\\demo-files\\demo.js",
+      "PackagePath": "staticwebassets\\fonts_login\\icomoon\\demo-files\\demo.js"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\fonts_login\\icomoon\\demo.html",
+      "PackagePath": "staticwebassets\\fonts_login\\icomoon\\demo.html"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\fonts_login\\icomoon\\fonts\\icomoon.eot",
+      "PackagePath": "staticwebassets\\fonts_login\\icomoon\\fonts\\icomoon.eot"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\fonts_login\\icomoon\\fonts\\icomoon.svg",
+      "PackagePath": "staticwebassets\\fonts_login\\icomoon\\fonts\\icomoon.svg"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\fonts_login\\icomoon\\fonts\\icomoon.ttf",
+      "PackagePath": "staticwebassets\\fonts_login\\icomoon\\fonts\\icomoon.ttf"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\fonts_login\\icomoon\\fonts\\icomoon.woff",
+      "PackagePath": "staticwebassets\\fonts_login\\icomoon\\fonts\\icomoon.woff"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\fonts_login\\icomoon\\selection.json",
+      "PackagePath": "staticwebassets\\fonts_login\\icomoon\\selection.json"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\fonts_login\\icomoon\\style.css",
+      "PackagePath": "staticwebassets\\fonts_login\\icomoon\\style.css"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\images\\avatar-1.jpg",
+      "PackagePath": "staticwebassets\\images\\avatar-1.jpg"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\images\\avatar-2.jpg",
+      "PackagePath": "staticwebassets\\images\\avatar-2.jpg"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\images\\avatar-3.jpg",
+      "PackagePath": "staticwebassets\\images\\avatar-3.jpg"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\images\\avatar-4.jpg",
+      "PackagePath": "staticwebassets\\images\\avatar-4.jpg"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\images\\avatar-5.jpg",
+      "PackagePath": "staticwebassets\\images\\avatar-5.jpg"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\images\\bitbucket.png",
+      "PackagePath": "staticwebassets\\images\\bitbucket.png"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\images\\card-img-1.jpg",
+      "PackagePath": "staticwebassets\\images\\card-img-1.jpg"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\images\\card-img-2.jpg",
+      "PackagePath": "staticwebassets\\images\\card-img-2.jpg"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\images\\card-img-3.jpg",
+      "PackagePath": "staticwebassets\\images\\card-img-3.jpg"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\images\\card-img.jpg",
+      "PackagePath": "staticwebassets\\images\\card-img.jpg"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\images\\down-arrow.png",
+      "PackagePath": "staticwebassets\\images\\down-arrow.png"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\images\\drag-indicator.png",
+      "PackagePath": "staticwebassets\\images\\drag-indicator.png"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\images\\dribbble.png",
+      "PackagePath": "staticwebassets\\images\\dribbble.png"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\images\\dropbox.png",
+      "PackagePath": "staticwebassets\\images\\dropbox.png"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\images\\eco-product-img-1.png",
+      "PackagePath": "staticwebassets\\images\\eco-product-img-1.png"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\images\\eco-product-img-2.png",
+      "PackagePath": "staticwebassets\\images\\eco-product-img-2.png"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\images\\eco-product-img-3.png",
+      "PackagePath": "staticwebassets\\images\\eco-product-img-3.png"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\images\\eco-product-img-4.png",
+      "PackagePath": "staticwebassets\\images\\eco-product-img-4.png"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\images\\eco-slider-img-1.png",
+      "PackagePath": "staticwebassets\\images\\eco-slider-img-1.png"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\images\\eco-slider-img-2.png",
+      "PackagePath": "staticwebassets\\images\\eco-slider-img-2.png"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\images\\eco-slider-img-3.png",
+      "PackagePath": "staticwebassets\\images\\eco-slider-img-3.png"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\images\\error-img.png",
+      "PackagePath": "staticwebassets\\images\\error-img.png"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\images\\github.png",
+      "PackagePath": "staticwebassets\\images\\github.png"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\images\\loader.svg",
+      "PackagePath": "staticwebassets\\images\\loader.svg"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\images\\mail_chimp.png",
+      "PackagePath": "staticwebassets\\images\\mail_chimp.png"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\images\\product-pic-2.jpg",
+      "PackagePath": "staticwebassets\\images\\product-pic-2.jpg"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\images\\product-pic-3.jpg",
+      "PackagePath": "staticwebassets\\images\\product-pic-3.jpg"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\images\\product-pic-4.jpg",
+      "PackagePath": "staticwebassets\\images\\product-pic-4.jpg"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\images\\product-pic.jpg",
+      "PackagePath": "staticwebassets\\images\\product-pic.jpg"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\images\\slack.png",
+      "PackagePath": "staticwebassets\\images\\slack.png"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\images\\switch.png",
+      "PackagePath": "staticwebassets\\images\\switch.png"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\images_login\\bg_1.jpg",
+      "PackagePath": "staticwebassets\\images_login\\bg_1.jpg"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\js\\bootstrap-datetimepicker.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap-datetimepicker.min.js"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\js\\jquery.easing.1.3.js",
+      "PackagePath": "staticwebassets\\js\\jquery.easing.1.3.js"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\js\\jquery.flexslider-min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.flexslider-min.js"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\js\\jquery.stellar.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.stellar.min.js"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\js\\jquery.waypoints.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.waypoints.min.js"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\js\\modernizr-2.6.2.min.js",
+      "PackagePath": "staticwebassets\\js\\modernizr-2.6.2.min.js"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\js\\moment.js",
+      "PackagePath": "staticwebassets\\js\\moment.js"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\js\\respond.min.js",
+      "PackagePath": "staticwebassets\\js\\respond.min.js"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\js_login\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js_login\\bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\js_login\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\js_login\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\js_login\\main.js",
+      "PackagePath": "staticwebassets\\js_login\\main.js"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\js_login\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js_login\\owl.carousel.min.js"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\js_login\\popper.min.js",
+      "PackagePath": "staticwebassets\\js_login\\popper.min.js"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\js_single_product\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js_single_product\\bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\js_single_product\\jquery-3.1.0.min.js",
+      "PackagePath": "staticwebassets\\js_single_product\\jquery-3.1.0.min.js"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\js_single_product\\jstree.active.js",
+      "PackagePath": "staticwebassets\\js_single_product\\jstree.active.js"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\js_single_product\\jstree.min.js",
+      "PackagePath": "staticwebassets\\js_single_product\\jstree.min.js"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\libs\\css\\style.css",
+      "PackagePath": "staticwebassets\\libs\\css\\style.css"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\libs\\js\\dashboard-ecommerce.js",
+      "PackagePath": "staticwebassets\\libs\\js\\dashboard-ecommerce.js"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\libs\\js\\dashboard-finance.js",
+      "PackagePath": "staticwebassets\\libs\\js\\dashboard-finance.js"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\libs\\js\\dashboard-influencer.js",
+      "PackagePath": "staticwebassets\\libs\\js\\dashboard-influencer.js"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\libs\\js\\dashboard-sales.js",
+      "PackagePath": "staticwebassets\\libs\\js\\dashboard-sales.js"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\libs\\js\\gmaps.min.js",
+      "PackagePath": "staticwebassets\\libs\\js\\gmaps.min.js"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\libs\\js\\google_map.js",
+      "PackagePath": "staticwebassets\\libs\\js\\google_map.js"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\libs\\js\\jvectormap.custom.js",
+      "PackagePath": "staticwebassets\\libs\\js\\jvectormap.custom.js"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\libs\\js\\main-js.js",
+      "PackagePath": "staticwebassets\\libs\\js\\main-js.js"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\scss_login\\bootstrap\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\_alert.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\scss_login\\bootstrap\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\_badge.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\scss_login\\bootstrap\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\_breadcrumb.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\scss_login\\bootstrap\\_button-group.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\_button-group.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\scss_login\\bootstrap\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\_buttons.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\scss_login\\bootstrap\\_card.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\_card.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\scss_login\\bootstrap\\_carousel.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\_carousel.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\scss_login\\bootstrap\\_close.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\_close.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\scss_login\\bootstrap\\_code.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\_code.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\scss_login\\bootstrap\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\_custom-forms.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\scss_login\\bootstrap\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\_dropdown.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\scss_login\\bootstrap\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\_forms.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\scss_login\\bootstrap\\_functions.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\_functions.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\scss_login\\bootstrap\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\_grid.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\scss_login\\bootstrap\\_images.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\_images.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\scss_login\\bootstrap\\_input-group.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\_input-group.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\scss_login\\bootstrap\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\_jumbotron.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\scss_login\\bootstrap\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\_list-group.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\scss_login\\bootstrap\\_media.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\_media.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\scss_login\\bootstrap\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\_mixins.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\scss_login\\bootstrap\\_modal.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\_modal.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\scss_login\\bootstrap\\_nav.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\_nav.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\scss_login\\bootstrap\\_navbar.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\_navbar.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\scss_login\\bootstrap\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\_pagination.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\scss_login\\bootstrap\\_popover.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\_popover.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\scss_login\\bootstrap\\_print.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\_print.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\scss_login\\bootstrap\\_progress.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\_progress.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\scss_login\\bootstrap\\_reboot.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\_reboot.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\scss_login\\bootstrap\\_root.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\_root.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\scss_login\\bootstrap\\_spinners.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\_spinners.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\scss_login\\bootstrap\\_tables.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\_tables.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\scss_login\\bootstrap\\_toasts.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\_toasts.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\scss_login\\bootstrap\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\_tooltip.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\scss_login\\bootstrap\\_transitions.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\_transitions.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\scss_login\\bootstrap\\_type.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\_type.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\scss_login\\bootstrap\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\_utilities.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\scss_login\\bootstrap\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\_variables.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\scss_login\\bootstrap\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\scss_login\\bootstrap\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\scss_login\\bootstrap\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\bootstrap.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\scss_login\\bootstrap\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\scss_login\\bootstrap\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\scss_login\\bootstrap\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\scss_login\\bootstrap\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\scss_login\\bootstrap\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\scss_login\\bootstrap\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\scss_login\\bootstrap\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\scss_login\\bootstrap\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\scss_login\\bootstrap\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\scss_login\\bootstrap\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\scss_login\\bootstrap\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\mixins\\_float.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\scss_login\\bootstrap\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\scss_login\\bootstrap\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\scss_login\\bootstrap\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\scss_login\\bootstrap\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\scss_login\\bootstrap\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\scss_login\\bootstrap\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\mixins\\_image.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\scss_login\\bootstrap\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\scss_login\\bootstrap\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\scss_login\\bootstrap\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\scss_login\\bootstrap\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\scss_login\\bootstrap\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\scss_login\\bootstrap\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\scss_login\\bootstrap\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\scss_login\\bootstrap\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\mixins\\_size.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\scss_login\\bootstrap\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\scss_login\\bootstrap\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\scss_login\\bootstrap\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\scss_login\\bootstrap\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\scss_login\\bootstrap\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\scss_login\\bootstrap\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\scss_login\\bootstrap\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\utilities\\_align.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\scss_login\\bootstrap\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\utilities\\_background.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\scss_login\\bootstrap\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\scss_login\\bootstrap\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\scss_login\\bootstrap\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\utilities\\_display.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\scss_login\\bootstrap\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\scss_login\\bootstrap\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\scss_login\\bootstrap\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\utilities\\_float.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\scss_login\\bootstrap\\utilities\\_overflow.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\utilities\\_overflow.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\scss_login\\bootstrap\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\utilities\\_position.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\scss_login\\bootstrap\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\scss_login\\bootstrap\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\scss_login\\bootstrap\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\scss_login\\bootstrap\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\scss_login\\bootstrap\\utilities\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\utilities\\_stretched-link.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\scss_login\\bootstrap\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\utilities\\_text.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\scss_login\\bootstrap\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\scss_login\\bootstrap\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\scss_login\\style.scss",
+      "PackagePath": "staticwebassets\\scss_login\\style.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\ (2).DS_Store",
+      "PackagePath": "staticwebassets\\ui\\ (2).DS_Store"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\.gitattributes",
+      "PackagePath": "staticwebassets\\ui\\.gitattributes"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\README.txt",
+      "PackagePath": "staticwebassets\\ui\\README.txt"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\cart.css",
+      "PackagePath": "staticwebassets\\ui\\cart.css"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\cart.html",
+      "PackagePath": "staticwebassets\\ui\\cart.html"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\concept-master.zip",
+      "PackagePath": "staticwebassets\\ui\\concept-master.zip"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\dashboard\\README.md",
+      "PackagePath": "staticwebassets\\ui\\dashboard\\README.md"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\dashboard\\dashboard-finance.html",
+      "PackagePath": "staticwebassets\\ui\\dashboard\\dashboard-finance.html"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\dashboard\\dashboard-finance.html.__projection.g.css",
+      "PackagePath": "staticwebassets\\ui\\dashboard\\dashboard-finance.html.__projection.g.css"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\dashboard\\dashboard-finance.html.__projection.g.js",
+      "PackagePath": "staticwebassets\\ui\\dashboard\\dashboard-finance.html.__projection.g.js"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\dashboard\\dashboard-influencer.html",
+      "PackagePath": "staticwebassets\\ui\\dashboard\\dashboard-influencer.html"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\dashboard\\dashboard-sales.html",
+      "PackagePath": "staticwebassets\\ui\\dashboard\\dashboard-sales.html"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\dashboard\\ecommerce-product-checkout.html",
+      "PackagePath": "staticwebassets\\ui\\dashboard\\ecommerce-product-checkout.html"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\dashboard\\ecommerce-product-checkout.html.__projection.g.css",
+      "PackagePath": "staticwebassets\\ui\\dashboard\\ecommerce-product-checkout.html.__projection.g.css"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\dashboard\\ecommerce-product-checkout.html.__projection.g.js",
+      "PackagePath": "staticwebassets\\ui\\dashboard\\ecommerce-product-checkout.html.__projection.g.js"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\dashboard\\ecommerce-product-single.html",
+      "PackagePath": "staticwebassets\\ui\\dashboard\\ecommerce-product-single.html"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\dashboard\\ecommerce-product.html",
+      "PackagePath": "staticwebassets\\ui\\dashboard\\ecommerce-product.html"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\dashboard\\index.html",
+      "PackagePath": "staticwebassets\\ui\\dashboard\\index.html"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\dashboard\\index.html.__projection.g.css",
+      "PackagePath": "staticwebassets\\ui\\dashboard\\index.html.__projection.g.css"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\dashboard\\index.html.__projection.g.js",
+      "PackagePath": "staticwebassets\\ui\\dashboard\\index.html.__projection.g.js"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\dashboard\\influencer-finder.html",
+      "PackagePath": "staticwebassets\\ui\\dashboard\\influencer-finder.html"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\dashboard\\influencer-profile.html",
+      "PackagePath": "staticwebassets\\ui\\dashboard\\influencer-profile.html"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\dashboard\\influencer-profile.html.__projection.g.css",
+      "PackagePath": "staticwebassets\\ui\\dashboard\\influencer-profile.html.__projection.g.css"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\dashboard\\influencer-profile.html.__projection.g.js",
+      "PackagePath": "staticwebassets\\ui\\dashboard\\influencer-profile.html.__projection.g.js"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\dashboard\\pages\\404-page.html",
+      "PackagePath": "staticwebassets\\ui\\dashboard\\pages\\404-page.html"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\dashboard\\pages\\accordions.html",
+      "PackagePath": "staticwebassets\\ui\\dashboard\\pages\\accordions.html"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\dashboard\\pages\\blank-page-header.html",
+      "PackagePath": "staticwebassets\\ui\\dashboard\\pages\\blank-page-header.html"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\dashboard\\pages\\blank-page.html",
+      "PackagePath": "staticwebassets\\ui\\dashboard\\pages\\blank-page.html"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\dashboard\\pages\\bootstrap-select.html",
+      "PackagePath": "staticwebassets\\ui\\dashboard\\pages\\bootstrap-select.html"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\dashboard\\pages\\calendar.html",
+      "PackagePath": "staticwebassets\\ui\\dashboard\\pages\\calendar.html"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\dashboard\\pages\\cards.html",
+      "PackagePath": "staticwebassets\\ui\\dashboard\\pages\\cards.html"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\dashboard\\pages\\carousel.html",
+      "PackagePath": "staticwebassets\\ui\\dashboard\\pages\\carousel.html"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\dashboard\\pages\\chart-c3.html",
+      "PackagePath": "staticwebassets\\ui\\dashboard\\pages\\chart-c3.html"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\dashboard\\pages\\chart-chartist.html",
+      "PackagePath": "staticwebassets\\ui\\dashboard\\pages\\chart-chartist.html"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\dashboard\\pages\\chart-charts.html",
+      "PackagePath": "staticwebassets\\ui\\dashboard\\pages\\chart-charts.html"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\dashboard\\pages\\chart-gauge.html",
+      "PackagePath": "staticwebassets\\ui\\dashboard\\pages\\chart-gauge.html"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\dashboard\\pages\\chart-morris.html",
+      "PackagePath": "staticwebassets\\ui\\dashboard\\pages\\chart-morris.html"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\dashboard\\pages\\chart-sparkline.html",
+      "PackagePath": "staticwebassets\\ui\\dashboard\\pages\\chart-sparkline.html"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\dashboard\\pages\\color-picker.html",
+      "PackagePath": "staticwebassets\\ui\\dashboard\\pages\\color-picker.html"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\dashboard\\pages\\cropped.html",
+      "PackagePath": "staticwebassets\\ui\\dashboard\\pages\\cropped.html"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\dashboard\\pages\\cropper-image.html",
+      "PackagePath": "staticwebassets\\ui\\dashboard\\pages\\cropper-image.html"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\dashboard\\pages\\data-tables.html",
+      "PackagePath": "staticwebassets\\ui\\dashboard\\pages\\data-tables.html"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\dashboard\\pages\\datepicker.html",
+      "PackagePath": "staticwebassets\\ui\\dashboard\\pages\\datepicker.html"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\dashboard\\pages\\email-compose.html",
+      "PackagePath": "staticwebassets\\ui\\dashboard\\pages\\email-compose.html"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\dashboard\\pages\\email-details.html",
+      "PackagePath": "staticwebassets\\ui\\dashboard\\pages\\email-details.html"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\dashboard\\pages\\forgot-password.html",
+      "PackagePath": "staticwebassets\\ui\\dashboard\\pages\\forgot-password.html"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\dashboard\\pages\\form-elements.html",
+      "PackagePath": "staticwebassets\\ui\\dashboard\\pages\\form-elements.html"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\dashboard\\pages\\form-validation.html",
+      "PackagePath": "staticwebassets\\ui\\dashboard\\pages\\form-validation.html"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\dashboard\\pages\\general-table.html",
+      "PackagePath": "staticwebassets\\ui\\dashboard\\pages\\general-table.html"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\dashboard\\pages\\general.html",
+      "PackagePath": "staticwebassets\\ui\\dashboard\\pages\\general.html"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\dashboard\\pages\\icon-flag.html",
+      "PackagePath": "staticwebassets\\ui\\dashboard\\pages\\icon-flag.html"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\dashboard\\pages\\icon-fontawesome.html",
+      "PackagePath": "staticwebassets\\ui\\dashboard\\pages\\icon-fontawesome.html"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\dashboard\\pages\\icon-material.html",
+      "PackagePath": "staticwebassets\\ui\\dashboard\\pages\\icon-material.html"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\dashboard\\pages\\icon-simple-lineicon.html",
+      "PackagePath": "staticwebassets\\ui\\dashboard\\pages\\icon-simple-lineicon.html"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\dashboard\\pages\\icon-themify.html",
+      "PackagePath": "staticwebassets\\ui\\dashboard\\pages\\icon-themify.html"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\dashboard\\pages\\icon-weather.html",
+      "PackagePath": "staticwebassets\\ui\\dashboard\\pages\\icon-weather.html"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\dashboard\\pages\\inbox.html",
+      "PackagePath": "staticwebassets\\ui\\dashboard\\pages\\inbox.html"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\dashboard\\pages\\index.html",
+      "PackagePath": "staticwebassets\\ui\\dashboard\\pages\\index.html"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\dashboard\\pages\\invoice.html",
+      "PackagePath": "staticwebassets\\ui\\dashboard\\pages\\invoice.html"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\dashboard\\pages\\listgroup.html",
+      "PackagePath": "staticwebassets\\ui\\dashboard\\pages\\listgroup.html"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\dashboard\\pages\\login.html",
+      "PackagePath": "staticwebassets\\ui\\dashboard\\pages\\login.html"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\dashboard\\pages\\map-google.html",
+      "PackagePath": "staticwebassets\\ui\\dashboard\\pages\\map-google.html"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\dashboard\\pages\\map-vector.html",
+      "PackagePath": "staticwebassets\\ui\\dashboard\\pages\\map-vector.html"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\dashboard\\pages\\media-object.html",
+      "PackagePath": "staticwebassets\\ui\\dashboard\\pages\\media-object.html"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\dashboard\\pages\\message-chat.html",
+      "PackagePath": "staticwebassets\\ui\\dashboard\\pages\\message-chat.html"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\dashboard\\pages\\multiselect.html",
+      "PackagePath": "staticwebassets\\ui\\dashboard\\pages\\multiselect.html"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\dashboard\\pages\\pages-app.html",
+      "PackagePath": "staticwebassets\\ui\\dashboard\\pages\\pages-app.html"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\dashboard\\pages\\pages-sign-up.html",
+      "PackagePath": "staticwebassets\\ui\\dashboard\\pages\\pages-sign-up.html"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\dashboard\\pages\\pricing.html",
+      "PackagePath": "staticwebassets\\ui\\dashboard\\pages\\pricing.html"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\dashboard\\pages\\sign-up.html",
+      "PackagePath": "staticwebassets\\ui\\dashboard\\pages\\sign-up.html"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\dashboard\\pages\\sortable-nestable-lists.html",
+      "PackagePath": "staticwebassets\\ui\\dashboard\\pages\\sortable-nestable-lists.html"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\dashboard\\pages\\tabs.html",
+      "PackagePath": "staticwebassets\\ui\\dashboard\\pages\\tabs.html"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\dashboard\\pages\\timeline.html",
+      "PackagePath": "staticwebassets\\ui\\dashboard\\pages\\timeline.html"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\dashboard\\pages\\typography.html",
+      "PackagePath": "staticwebassets\\ui\\dashboard\\pages\\typography.html"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\dashboard\\pages\\user-profile.html",
+      "PackagePath": "staticwebassets\\ui\\dashboard\\pages\\user-profile.html"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\dashboard\\pages\\widgets.html",
+      "PackagePath": "staticwebassets\\ui\\dashboard\\pages\\widgets.html"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\index login .html",
+      "PackagePath": "staticwebassets\\ui\\index login .html"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\index login .html.__projection.g.css",
+      "PackagePath": "staticwebassets\\ui\\index login .html.__projection.g.css"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\index login .html.__projection.g.js",
+      "PackagePath": "staticwebassets\\ui\\index login .html.__projection.g.js"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\index.html",
+      "PackagePath": "staticwebassets\\ui\\index.html"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\index.html.__projection.g.css",
+      "PackagePath": "staticwebassets\\ui\\index.html.__projection.g.css"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\index.html.__projection.g.js",
+      "PackagePath": "staticwebassets\\ui\\index.html.__projection.g.js"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\login main.html",
+      "PackagePath": "staticwebassets\\ui\\login main.html"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\login main.html.__projection.g.css",
+      "PackagePath": "staticwebassets\\ui\\login main.html.__projection.g.css"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sass\\_bootstrap-compass.scss",
+      "PackagePath": "staticwebassets\\ui\\sass\\_bootstrap-compass.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sass\\_bootstrap-mincer.scss",
+      "PackagePath": "staticwebassets\\ui\\sass\\_bootstrap-mincer.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sass\\_bootstrap-sprockets.scss",
+      "PackagePath": "staticwebassets\\ui\\sass\\_bootstrap-sprockets.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sass\\blue.scss",
+      "PackagePath": "staticwebassets\\ui\\sass\\blue.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sass\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\ui\\sass\\bootstrap.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sass\\bootstrap\\_alerts.scss",
+      "PackagePath": "staticwebassets\\ui\\sass\\bootstrap\\_alerts.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sass\\bootstrap\\_badges.scss",
+      "PackagePath": "staticwebassets\\ui\\sass\\bootstrap\\_badges.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sass\\bootstrap\\_breadcrumbs.scss",
+      "PackagePath": "staticwebassets\\ui\\sass\\bootstrap\\_breadcrumbs.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sass\\bootstrap\\_button-groups.scss",
+      "PackagePath": "staticwebassets\\ui\\sass\\bootstrap\\_button-groups.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sass\\bootstrap\\_buttons.scss",
+      "PackagePath": "staticwebassets\\ui\\sass\\bootstrap\\_buttons.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sass\\bootstrap\\_carousel.scss",
+      "PackagePath": "staticwebassets\\ui\\sass\\bootstrap\\_carousel.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sass\\bootstrap\\_close.scss",
+      "PackagePath": "staticwebassets\\ui\\sass\\bootstrap\\_close.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sass\\bootstrap\\_code.scss",
+      "PackagePath": "staticwebassets\\ui\\sass\\bootstrap\\_code.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sass\\bootstrap\\_component-animations.scss",
+      "PackagePath": "staticwebassets\\ui\\sass\\bootstrap\\_component-animations.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sass\\bootstrap\\_dropdowns.scss",
+      "PackagePath": "staticwebassets\\ui\\sass\\bootstrap\\_dropdowns.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sass\\bootstrap\\_forms.scss",
+      "PackagePath": "staticwebassets\\ui\\sass\\bootstrap\\_forms.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sass\\bootstrap\\_glyphicons.scss",
+      "PackagePath": "staticwebassets\\ui\\sass\\bootstrap\\_glyphicons.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sass\\bootstrap\\_grid.scss",
+      "PackagePath": "staticwebassets\\ui\\sass\\bootstrap\\_grid.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sass\\bootstrap\\_input-groups.scss",
+      "PackagePath": "staticwebassets\\ui\\sass\\bootstrap\\_input-groups.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sass\\bootstrap\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\ui\\sass\\bootstrap\\_jumbotron.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sass\\bootstrap\\_labels.scss",
+      "PackagePath": "staticwebassets\\ui\\sass\\bootstrap\\_labels.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sass\\bootstrap\\_list-group.scss",
+      "PackagePath": "staticwebassets\\ui\\sass\\bootstrap\\_list-group.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sass\\bootstrap\\_media.scss",
+      "PackagePath": "staticwebassets\\ui\\sass\\bootstrap\\_media.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sass\\bootstrap\\_mixins.scss",
+      "PackagePath": "staticwebassets\\ui\\sass\\bootstrap\\_mixins.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sass\\bootstrap\\_modals.scss",
+      "PackagePath": "staticwebassets\\ui\\sass\\bootstrap\\_modals.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sass\\bootstrap\\_navbar.scss",
+      "PackagePath": "staticwebassets\\ui\\sass\\bootstrap\\_navbar.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sass\\bootstrap\\_navs.scss",
+      "PackagePath": "staticwebassets\\ui\\sass\\bootstrap\\_navs.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sass\\bootstrap\\_normalize.scss",
+      "PackagePath": "staticwebassets\\ui\\sass\\bootstrap\\_normalize.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sass\\bootstrap\\_pager.scss",
+      "PackagePath": "staticwebassets\\ui\\sass\\bootstrap\\_pager.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sass\\bootstrap\\_pagination.scss",
+      "PackagePath": "staticwebassets\\ui\\sass\\bootstrap\\_pagination.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sass\\bootstrap\\_panels.scss",
+      "PackagePath": "staticwebassets\\ui\\sass\\bootstrap\\_panels.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sass\\bootstrap\\_popovers.scss",
+      "PackagePath": "staticwebassets\\ui\\sass\\bootstrap\\_popovers.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sass\\bootstrap\\_print.scss",
+      "PackagePath": "staticwebassets\\ui\\sass\\bootstrap\\_print.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sass\\bootstrap\\_progress-bars.scss",
+      "PackagePath": "staticwebassets\\ui\\sass\\bootstrap\\_progress-bars.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sass\\bootstrap\\_responsive-embed.scss",
+      "PackagePath": "staticwebassets\\ui\\sass\\bootstrap\\_responsive-embed.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sass\\bootstrap\\_responsive-utilities.scss",
+      "PackagePath": "staticwebassets\\ui\\sass\\bootstrap\\_responsive-utilities.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sass\\bootstrap\\_scaffolding.scss",
+      "PackagePath": "staticwebassets\\ui\\sass\\bootstrap\\_scaffolding.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sass\\bootstrap\\_tables.scss",
+      "PackagePath": "staticwebassets\\ui\\sass\\bootstrap\\_tables.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sass\\bootstrap\\_theme.scss",
+      "PackagePath": "staticwebassets\\ui\\sass\\bootstrap\\_theme.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sass\\bootstrap\\_thumbnails.scss",
+      "PackagePath": "staticwebassets\\ui\\sass\\bootstrap\\_thumbnails.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sass\\bootstrap\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\ui\\sass\\bootstrap\\_tooltip.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sass\\bootstrap\\_type.scss",
+      "PackagePath": "staticwebassets\\ui\\sass\\bootstrap\\_type.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sass\\bootstrap\\_utilities.scss",
+      "PackagePath": "staticwebassets\\ui\\sass\\bootstrap\\_utilities.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sass\\bootstrap\\_variables.scss",
+      "PackagePath": "staticwebassets\\ui\\sass\\bootstrap\\_variables.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sass\\bootstrap\\_wells.scss",
+      "PackagePath": "staticwebassets\\ui\\sass\\bootstrap\\_wells.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sass\\bootstrap\\mixins\\_alerts.scss",
+      "PackagePath": "staticwebassets\\ui\\sass\\bootstrap\\mixins\\_alerts.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sass\\bootstrap\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\ui\\sass\\bootstrap\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sass\\bootstrap\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\ui\\sass\\bootstrap\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sass\\bootstrap\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\ui\\sass\\bootstrap\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sass\\bootstrap\\mixins\\_center-block.scss",
+      "PackagePath": "staticwebassets\\ui\\sass\\bootstrap\\mixins\\_center-block.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sass\\bootstrap\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\ui\\sass\\bootstrap\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sass\\bootstrap\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\ui\\sass\\bootstrap\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sass\\bootstrap\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\ui\\sass\\bootstrap\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sass\\bootstrap\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\ui\\sass\\bootstrap\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sass\\bootstrap\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\ui\\sass\\bootstrap\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sass\\bootstrap\\mixins\\_hide-text.scss",
+      "PackagePath": "staticwebassets\\ui\\sass\\bootstrap\\mixins\\_hide-text.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sass\\bootstrap\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\ui\\sass\\bootstrap\\mixins\\_image.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sass\\bootstrap\\mixins\\_labels.scss",
+      "PackagePath": "staticwebassets\\ui\\sass\\bootstrap\\mixins\\_labels.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sass\\bootstrap\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\ui\\sass\\bootstrap\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sass\\bootstrap\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\ui\\sass\\bootstrap\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sass\\bootstrap\\mixins\\_nav-vertical-align.scss",
+      "PackagePath": "staticwebassets\\ui\\sass\\bootstrap\\mixins\\_nav-vertical-align.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sass\\bootstrap\\mixins\\_opacity.scss",
+      "PackagePath": "staticwebassets\\ui\\sass\\bootstrap\\mixins\\_opacity.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sass\\bootstrap\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\ui\\sass\\bootstrap\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sass\\bootstrap\\mixins\\_panels.scss",
+      "PackagePath": "staticwebassets\\ui\\sass\\bootstrap\\mixins\\_panels.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sass\\bootstrap\\mixins\\_progress-bar.scss",
+      "PackagePath": "staticwebassets\\ui\\sass\\bootstrap\\mixins\\_progress-bar.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sass\\bootstrap\\mixins\\_reset-filter.scss",
+      "PackagePath": "staticwebassets\\ui\\sass\\bootstrap\\mixins\\_reset-filter.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sass\\bootstrap\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\ui\\sass\\bootstrap\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sass\\bootstrap\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\ui\\sass\\bootstrap\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sass\\bootstrap\\mixins\\_responsive-visibility.scss",
+      "PackagePath": "staticwebassets\\ui\\sass\\bootstrap\\mixins\\_responsive-visibility.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sass\\bootstrap\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\ui\\sass\\bootstrap\\mixins\\_size.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sass\\bootstrap\\mixins\\_tab-focus.scss",
+      "PackagePath": "staticwebassets\\ui\\sass\\bootstrap\\mixins\\_tab-focus.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sass\\bootstrap\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\ui\\sass\\bootstrap\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sass\\bootstrap\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\ui\\sass\\bootstrap\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sass\\bootstrap\\mixins\\_text-overflow.scss",
+      "PackagePath": "staticwebassets\\ui\\sass\\bootstrap\\mixins\\_text-overflow.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sass\\bootstrap\\mixins\\_vendor-prefixes.scss",
+      "PackagePath": "staticwebassets\\ui\\sass\\bootstrap\\mixins\\_vendor-prefixes.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sass\\style.scss",
+      "PackagePath": "staticwebassets\\ui\\sass\\style.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sass\\style2.scss",
+      "PackagePath": "staticwebassets\\ui\\sass\\style2.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sass\\style3.scss",
+      "PackagePath": "staticwebassets\\ui\\sass\\style3.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sass\\style4.scss",
+      "PackagePath": "staticwebassets\\ui\\sass\\style4.scss"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sneat-1.0.0\\sneat-1.0.0\\.editorconfig",
+      "PackagePath": "staticwebassets\\ui\\sneat-1.0.0\\sneat-1.0.0\\.editorconfig"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sneat-1.0.0\\sneat-1.0.0\\.eslintrc-auto-import.json",
+      "PackagePath": "staticwebassets\\ui\\sneat-1.0.0\\sneat-1.0.0\\.eslintrc-auto-import.json"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sneat-1.0.0\\sneat-1.0.0\\.eslintrc.js",
+      "PackagePath": "staticwebassets\\ui\\sneat-1.0.0\\sneat-1.0.0\\.eslintrc.js"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sneat-1.0.0\\sneat-1.0.0\\.gitignore",
+      "PackagePath": "staticwebassets\\ui\\sneat-1.0.0\\sneat-1.0.0\\.gitignore"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sneat-1.0.0\\sneat-1.0.0\\.stylelintrc.json",
+      "PackagePath": "staticwebassets\\ui\\sneat-1.0.0\\sneat-1.0.0\\.stylelintrc.json"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sneat-1.0.0\\sneat-1.0.0\\README.md",
+      "PackagePath": "staticwebassets\\ui\\sneat-1.0.0\\sneat-1.0.0\\README.md"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sneat-1.0.0\\sneat-1.0.0\\auto-imports.d.ts",
+      "PackagePath": "staticwebassets\\ui\\sneat-1.0.0\\sneat-1.0.0\\auto-imports.d.ts"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sneat-1.0.0\\sneat-1.0.0\\components.d.ts",
+      "PackagePath": "staticwebassets\\ui\\sneat-1.0.0\\sneat-1.0.0\\components.d.ts"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sneat-1.0.0\\sneat-1.0.0\\index.html",
+      "PackagePath": "staticwebassets\\ui\\sneat-1.0.0\\sneat-1.0.0\\index.html"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sneat-1.0.0\\sneat-1.0.0\\jsconfig.json",
+      "PackagePath": "staticwebassets\\ui\\sneat-1.0.0\\sneat-1.0.0\\jsconfig.json"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sneat-1.0.0\\sneat-1.0.0\\package-lock.json",
+      "PackagePath": "staticwebassets\\ui\\sneat-1.0.0\\sneat-1.0.0\\package-lock.json"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sneat-1.0.0\\sneat-1.0.0\\package.json",
+      "PackagePath": "staticwebassets\\ui\\sneat-1.0.0\\sneat-1.0.0\\package.json"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sneat-1.0.0\\sneat-1.0.0\\vercel.json",
+      "PackagePath": "staticwebassets\\ui\\sneat-1.0.0\\sneat-1.0.0\\vercel.json"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sneat-1.0.0\\sneat-1.0.0\\vite.config.js",
+      "PackagePath": "staticwebassets\\ui\\sneat-1.0.0\\sneat-1.0.0\\vite.config.js"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sneat-1.0.0\\sneat-1.0.0\\vue.config.js",
+      "PackagePath": "staticwebassets\\ui\\sneat-1.0.0\\sneat-1.0.0\\vue.config.js"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\projectt\\wwwroot\\ui\\sneat-1.0.0\\sneat-1.0.0\\yarn.lock",
+      "PackagePath": "staticwebassets\\ui\\sneat-1.0.0\\sneat-1.0.0\\yarn.lock"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.projectt.props",
+      "PackagePath": "build\\projectt.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.projectt.props",
+      "PackagePath": "buildMultiTargeting\\projectt.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.projectt.props",
+      "PackagePath": "buildTransitive\\projectt.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.projectt.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
