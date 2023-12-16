@@ -39,6 +39,7 @@ namespace food_webapp_projectt.Controllers
         {
             return View();
         }
+
         public IActionResult payment()
         {
             return View();
@@ -73,7 +74,7 @@ namespace food_webapp_projectt.Controllers
         {
             return View();
         }
-
+   
         [HttpPost]
         public ActionResult Login(string username, string password)
         {
@@ -81,17 +82,21 @@ namespace food_webapp_projectt.Controllers
             {
                 // Redirect to dashboard
                 return RedirectToAction("Dashboard", "Home");
+
+            }else if(username == "user" && password == "user") //it will added be from the database later
+            {
+
+                return RedirectToAction("user_profile", "Home");
             }
             else
             {
-                // Redirect to login with an error message
-                ViewBag.ErrorMessage = "Invalid username or password.";
-
-                // Add a script to reload the page
-                ViewBag.ReloadScript = true;
-
+              
                 return RedirectToAction("Login", "Home");
             }
+        }
+        public ActionResult user_profile()
+        {
+            return View();
         }
 
         public ActionResult Dashboard()
