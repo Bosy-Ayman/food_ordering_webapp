@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "food_webapp_projectt/1.0.0": {
+        "runtime": {
+          "food_webapp_projectt.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "food_webapp_projectt/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
