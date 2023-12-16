@@ -1737,6 +1737,22 @@
       "PackagePath": "staticwebassets\\css\\style.css.map"
     },
     {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\css_login\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css_login\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\css_login\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css_login\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\css_login\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css_login\\owl.carousel.min.css"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\css_login\\style.css",
+      "PackagePath": "staticwebassets\\css_login\\style.css"
+    },
+    {
       "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
@@ -1835,6 +1851,46 @@
     {
       "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\fonts\\simple-line-icons\\Simple-Line-Icons.woff2",
       "PackagePath": "staticwebassets\\fonts\\simple-line-icons\\Simple-Line-Icons.woff2"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\fonts_login\\icomoon\\Read Me.txt",
+      "PackagePath": "staticwebassets\\fonts_login\\icomoon\\Read Me.txt"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\fonts_login\\icomoon\\demo-files\\demo.css",
+      "PackagePath": "staticwebassets\\fonts_login\\icomoon\\demo-files\\demo.css"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\fonts_login\\icomoon\\demo-files\\demo.js",
+      "PackagePath": "staticwebassets\\fonts_login\\icomoon\\demo-files\\demo.js"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\fonts_login\\icomoon\\demo.html",
+      "PackagePath": "staticwebassets\\fonts_login\\icomoon\\demo.html"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\fonts_login\\icomoon\\fonts\\icomoon.eot",
+      "PackagePath": "staticwebassets\\fonts_login\\icomoon\\fonts\\icomoon.eot"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\fonts_login\\icomoon\\fonts\\icomoon.svg",
+      "PackagePath": "staticwebassets\\fonts_login\\icomoon\\fonts\\icomoon.svg"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\fonts_login\\icomoon\\fonts\\icomoon.ttf",
+      "PackagePath": "staticwebassets\\fonts_login\\icomoon\\fonts\\icomoon.ttf"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\fonts_login\\icomoon\\fonts\\icomoon.woff",
+      "PackagePath": "staticwebassets\\fonts_login\\icomoon\\fonts\\icomoon.woff"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\fonts_login\\icomoon\\selection.json",
+      "PackagePath": "staticwebassets\\fonts_login\\icomoon\\selection.json"
+    },
+    {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\fonts_login\\icomoon\\style.css",
+      "PackagePath": "staticwebassets\\fonts_login\\icomoon\\style.css"
     },
     {
       "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\images\\0103-served-plate_128.png",
@@ -1965,6 +2021,10 @@
       "PackagePath": "staticwebassets\\images\\wood_1.png"
     },
     {
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\images_login\\bg_1.jpg",
+      "PackagePath": "staticwebassets\\images_login\\bg_1.jpg"
+    },
+    {
       "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\js\\bootstrap-datetimepicker.min.js",
       "PackagePath": "staticwebassets\\js\\bootstrap-datetimepicker.min.js"
     },
@@ -2013,804 +2073,380 @@
       "PackagePath": "staticwebassets\\js_login\\bootstrap.min.js"
     },
     {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\js_login\\jquery.min.js",
-      "PackagePath": "staticwebassets\\js_login\\jquery.min.js"
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\js_login\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\js_login\\jquery-3.3.1.min.js"
     },
     {
       "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\js_login\\main.js",
       "PackagePath": "staticwebassets\\js_login\\main.js"
     },
     {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\js_login\\popper.js",
-      "PackagePath": "staticwebassets\\js_login\\popper.js"
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\js_login\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js_login\\owl.carousel.min.js"
     },
     {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login images\\bg.jpg",
-      "PackagePath": "staticwebassets\\login images\\bg.jpg"
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\js_login\\popper.min.js",
+      "PackagePath": "staticwebassets\\js_login\\popper.min.js"
     },
     {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\index login .html",
-      "PackagePath": "staticwebassets\\login-form-20\\index login .html"
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss_login\\bootstrap\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\_alert.scss"
     },
     {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\js login\\bootstrap.min.js",
-      "PackagePath": "staticwebassets\\login-form-20\\js login\\bootstrap.min.js"
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss_login\\bootstrap\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\_badge.scss"
     },
     {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\js login\\jquery.min.js",
-      "PackagePath": "staticwebassets\\login-form-20\\js login\\jquery.min.js"
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss_login\\bootstrap\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\_breadcrumb.scss"
     },
     {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\js login\\main.js",
-      "PackagePath": "staticwebassets\\login-form-20\\js login\\main.js"
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss_login\\bootstrap\\_button-group.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\_button-group.scss"
     },
     {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\js login\\popper.js",
-      "PackagePath": "staticwebassets\\login-form-20\\js login\\popper.js"
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss_login\\bootstrap\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\_buttons.scss"
     },
     {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\login css\\bootstrap.min.css",
-      "PackagePath": "staticwebassets\\login-form-20\\login css\\bootstrap.min.css"
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss_login\\bootstrap\\_card.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\_card.scss"
     },
     {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\login css\\bootstrap\\_media.css",
-      "PackagePath": "staticwebassets\\login-form-20\\login css\\bootstrap\\_media.css"
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss_login\\bootstrap\\_carousel.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\_carousel.scss"
     },
     {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\login css\\bootstrap\\mixins\\_border-radius.css",
-      "PackagePath": "staticwebassets\\login-form-20\\login css\\bootstrap\\mixins\\_border-radius.css"
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss_login\\bootstrap\\_close.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\_close.scss"
     },
     {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\login css\\bootstrap\\mixins\\_reset-text.css",
-      "PackagePath": "staticwebassets\\login-form-20\\login css\\bootstrap\\mixins\\_reset-text.css"
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss_login\\bootstrap\\_code.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\_code.scss"
     },
     {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\login css\\bootstrap\\mixins\\_screen-reader.css",
-      "PackagePath": "staticwebassets\\login-form-20\\login css\\bootstrap\\mixins\\_screen-reader.css"
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss_login\\bootstrap\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\_custom-forms.scss"
     },
     {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\login css\\bootstrap\\mixins\\_text-hide.css",
-      "PackagePath": "staticwebassets\\login-form-20\\login css\\bootstrap\\mixins\\_text-hide.css"
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss_login\\bootstrap\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\_dropdown.scss"
     },
     {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\login css\\bootstrap\\mixins\\_visibility.css",
-      "PackagePath": "staticwebassets\\login-form-20\\login css\\bootstrap\\mixins\\_visibility.css"
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss_login\\bootstrap\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\_forms.scss"
     },
     {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\login css\\bootstrap\\utilities\\_stretched-link.css",
-      "PackagePath": "staticwebassets\\login-form-20\\login css\\bootstrap\\utilities\\_stretched-link.css"
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss_login\\bootstrap\\_functions.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\_functions.scss"
     },
     {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\login css\\style.css",
-      "PackagePath": "staticwebassets\\login-form-20\\login css\\style.css"
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss_login\\bootstrap\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\_grid.scss"
     },
     {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\login images\\bg.jpg",
-      "PackagePath": "staticwebassets\\login-form-20\\login images\\bg.jpg"
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss_login\\bootstrap\\_images.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\_images.scss"
     },
     {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\login main.html",
-      "PackagePath": "staticwebassets\\login-form-20\\login main.html"
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss_login\\bootstrap\\_input-group.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\_input-group.scss"
     },
     {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\scss login\\bootstrap\\_alert.scss",
-      "PackagePath": "staticwebassets\\login-form-20\\scss login\\bootstrap\\_alert.scss"
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss_login\\bootstrap\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\_jumbotron.scss"
     },
     {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\scss login\\bootstrap\\_badge.scss",
-      "PackagePath": "staticwebassets\\login-form-20\\scss login\\bootstrap\\_badge.scss"
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss_login\\bootstrap\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\_list-group.scss"
     },
     {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\scss login\\bootstrap\\_breadcrumb.scss",
-      "PackagePath": "staticwebassets\\login-form-20\\scss login\\bootstrap\\_breadcrumb.scss"
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss_login\\bootstrap\\_media.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\_media.scss"
     },
     {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\scss login\\bootstrap\\_button-group.scss",
-      "PackagePath": "staticwebassets\\login-form-20\\scss login\\bootstrap\\_button-group.scss"
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss_login\\bootstrap\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\_mixins.scss"
     },
     {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\scss login\\bootstrap\\_buttons.scss",
-      "PackagePath": "staticwebassets\\login-form-20\\scss login\\bootstrap\\_buttons.scss"
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss_login\\bootstrap\\_modal.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\_modal.scss"
     },
     {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\scss login\\bootstrap\\_card.scss",
-      "PackagePath": "staticwebassets\\login-form-20\\scss login\\bootstrap\\_card.scss"
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss_login\\bootstrap\\_nav.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\_nav.scss"
     },
     {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\scss login\\bootstrap\\_carousel.scss",
-      "PackagePath": "staticwebassets\\login-form-20\\scss login\\bootstrap\\_carousel.scss"
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss_login\\bootstrap\\_navbar.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\_navbar.scss"
     },
     {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\scss login\\bootstrap\\_close.scss",
-      "PackagePath": "staticwebassets\\login-form-20\\scss login\\bootstrap\\_close.scss"
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss_login\\bootstrap\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\_pagination.scss"
     },
     {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\scss login\\bootstrap\\_code.scss",
-      "PackagePath": "staticwebassets\\login-form-20\\scss login\\bootstrap\\_code.scss"
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss_login\\bootstrap\\_popover.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\_popover.scss"
     },
     {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\scss login\\bootstrap\\_custom-forms.scss",
-      "PackagePath": "staticwebassets\\login-form-20\\scss login\\bootstrap\\_custom-forms.scss"
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss_login\\bootstrap\\_print.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\_print.scss"
     },
     {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\scss login\\bootstrap\\_dropdown.scss",
-      "PackagePath": "staticwebassets\\login-form-20\\scss login\\bootstrap\\_dropdown.scss"
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss_login\\bootstrap\\_progress.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\_progress.scss"
     },
     {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\scss login\\bootstrap\\_forms.scss",
-      "PackagePath": "staticwebassets\\login-form-20\\scss login\\bootstrap\\_forms.scss"
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss_login\\bootstrap\\_reboot.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\_reboot.scss"
     },
     {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\scss login\\bootstrap\\_functions.scss",
-      "PackagePath": "staticwebassets\\login-form-20\\scss login\\bootstrap\\_functions.scss"
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss_login\\bootstrap\\_root.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\_root.scss"
     },
     {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\scss login\\bootstrap\\_grid.scss",
-      "PackagePath": "staticwebassets\\login-form-20\\scss login\\bootstrap\\_grid.scss"
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss_login\\bootstrap\\_spinners.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\_spinners.scss"
     },
     {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\scss login\\bootstrap\\_images.scss",
-      "PackagePath": "staticwebassets\\login-form-20\\scss login\\bootstrap\\_images.scss"
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss_login\\bootstrap\\_tables.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\_tables.scss"
     },
     {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\scss login\\bootstrap\\_input-group.scss",
-      "PackagePath": "staticwebassets\\login-form-20\\scss login\\bootstrap\\_input-group.scss"
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss_login\\bootstrap\\_toasts.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\_toasts.scss"
     },
     {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\scss login\\bootstrap\\_jumbotron.scss",
-      "PackagePath": "staticwebassets\\login-form-20\\scss login\\bootstrap\\_jumbotron.scss"
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss_login\\bootstrap\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\_tooltip.scss"
     },
     {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\scss login\\bootstrap\\_list-group.scss",
-      "PackagePath": "staticwebassets\\login-form-20\\scss login\\bootstrap\\_list-group.scss"
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss_login\\bootstrap\\_transitions.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\_transitions.scss"
     },
     {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\scss login\\bootstrap\\_media.scss",
-      "PackagePath": "staticwebassets\\login-form-20\\scss login\\bootstrap\\_media.scss"
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss_login\\bootstrap\\_type.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\_type.scss"
     },
     {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\scss login\\bootstrap\\_mixins.scss",
-      "PackagePath": "staticwebassets\\login-form-20\\scss login\\bootstrap\\_mixins.scss"
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss_login\\bootstrap\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\_utilities.scss"
     },
     {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\scss login\\bootstrap\\_modal.scss",
-      "PackagePath": "staticwebassets\\login-form-20\\scss login\\bootstrap\\_modal.scss"
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss_login\\bootstrap\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\_variables.scss"
     },
     {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\scss login\\bootstrap\\_nav.scss",
-      "PackagePath": "staticwebassets\\login-form-20\\scss login\\bootstrap\\_nav.scss"
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss_login\\bootstrap\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\bootstrap-grid.scss"
     },
     {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\scss login\\bootstrap\\_navbar.scss",
-      "PackagePath": "staticwebassets\\login-form-20\\scss login\\bootstrap\\_navbar.scss"
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss_login\\bootstrap\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\bootstrap-reboot.scss"
     },
     {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\scss login\\bootstrap\\_pagination.scss",
-      "PackagePath": "staticwebassets\\login-form-20\\scss login\\bootstrap\\_pagination.scss"
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss_login\\bootstrap\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\bootstrap.scss"
     },
     {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\scss login\\bootstrap\\_popover.scss",
-      "PackagePath": "staticwebassets\\login-form-20\\scss login\\bootstrap\\_popover.scss"
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss_login\\bootstrap\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\mixins\\_alert.scss"
     },
     {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\scss login\\bootstrap\\_print.scss",
-      "PackagePath": "staticwebassets\\login-form-20\\scss login\\bootstrap\\_print.scss"
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss_login\\bootstrap\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\mixins\\_background-variant.scss"
     },
     {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\scss login\\bootstrap\\_progress.scss",
-      "PackagePath": "staticwebassets\\login-form-20\\scss login\\bootstrap\\_progress.scss"
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss_login\\bootstrap\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\mixins\\_badge.scss"
     },
     {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\scss login\\bootstrap\\_reboot.scss",
-      "PackagePath": "staticwebassets\\login-form-20\\scss login\\bootstrap\\_reboot.scss"
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss_login\\bootstrap\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\mixins\\_border-radius.scss"
     },
     {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\scss login\\bootstrap\\_root.scss",
-      "PackagePath": "staticwebassets\\login-form-20\\scss login\\bootstrap\\_root.scss"
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss_login\\bootstrap\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\mixins\\_box-shadow.scss"
     },
     {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\scss login\\bootstrap\\_spinners.scss",
-      "PackagePath": "staticwebassets\\login-form-20\\scss login\\bootstrap\\_spinners.scss"
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss_login\\bootstrap\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\mixins\\_breakpoints.scss"
     },
     {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\scss login\\bootstrap\\_tables.scss",
-      "PackagePath": "staticwebassets\\login-form-20\\scss login\\bootstrap\\_tables.scss"
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss_login\\bootstrap\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\mixins\\_buttons.scss"
     },
     {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\scss login\\bootstrap\\_toasts.scss",
-      "PackagePath": "staticwebassets\\login-form-20\\scss login\\bootstrap\\_toasts.scss"
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss_login\\bootstrap\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\mixins\\_caret.scss"
     },
     {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\scss login\\bootstrap\\_tooltip.scss",
-      "PackagePath": "staticwebassets\\login-form-20\\scss login\\bootstrap\\_tooltip.scss"
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss_login\\bootstrap\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\mixins\\_clearfix.scss"
     },
     {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\scss login\\bootstrap\\_transitions.scss",
-      "PackagePath": "staticwebassets\\login-form-20\\scss login\\bootstrap\\_transitions.scss"
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss_login\\bootstrap\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\mixins\\_deprecate.scss"
     },
     {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\scss login\\bootstrap\\_type.scss",
-      "PackagePath": "staticwebassets\\login-form-20\\scss login\\bootstrap\\_type.scss"
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss_login\\bootstrap\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\mixins\\_float.scss"
     },
     {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\scss login\\bootstrap\\_utilities.scss",
-      "PackagePath": "staticwebassets\\login-form-20\\scss login\\bootstrap\\_utilities.scss"
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss_login\\bootstrap\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\mixins\\_forms.scss"
     },
     {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\scss login\\bootstrap\\_variables.scss",
-      "PackagePath": "staticwebassets\\login-form-20\\scss login\\bootstrap\\_variables.scss"
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss_login\\bootstrap\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\mixins\\_gradients.scss"
     },
     {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\scss login\\bootstrap\\bootstrap-grid.scss",
-      "PackagePath": "staticwebassets\\login-form-20\\scss login\\bootstrap\\bootstrap-grid.scss"
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss_login\\bootstrap\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\mixins\\_grid-framework.scss"
     },
     {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\scss login\\bootstrap\\bootstrap-reboot.scss",
-      "PackagePath": "staticwebassets\\login-form-20\\scss login\\bootstrap\\bootstrap-reboot.scss"
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss_login\\bootstrap\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\mixins\\_grid.scss"
     },
     {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\scss login\\bootstrap\\bootstrap.scss",
-      "PackagePath": "staticwebassets\\login-form-20\\scss login\\bootstrap\\bootstrap.scss"
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss_login\\bootstrap\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\mixins\\_hover.scss"
     },
     {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\scss login\\bootstrap\\mixins\\_alert.scss",
-      "PackagePath": "staticwebassets\\login-form-20\\scss login\\bootstrap\\mixins\\_alert.scss"
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss_login\\bootstrap\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\mixins\\_image.scss"
     },
     {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\scss login\\bootstrap\\mixins\\_background-variant.scss",
-      "PackagePath": "staticwebassets\\login-form-20\\scss login\\bootstrap\\mixins\\_background-variant.scss"
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss_login\\bootstrap\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\mixins\\_list-group.scss"
     },
     {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\scss login\\bootstrap\\mixins\\_badge.scss",
-      "PackagePath": "staticwebassets\\login-form-20\\scss login\\bootstrap\\mixins\\_badge.scss"
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss_login\\bootstrap\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\mixins\\_lists.scss"
     },
     {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\scss login\\bootstrap\\mixins\\_border-radius.scss",
-      "PackagePath": "staticwebassets\\login-form-20\\scss login\\bootstrap\\mixins\\_border-radius.scss"
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss_login\\bootstrap\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\mixins\\_nav-divider.scss"
     },
     {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\scss login\\bootstrap\\mixins\\_box-shadow.scss",
-      "PackagePath": "staticwebassets\\login-form-20\\scss login\\bootstrap\\mixins\\_box-shadow.scss"
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss_login\\bootstrap\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\mixins\\_pagination.scss"
     },
     {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\scss login\\bootstrap\\mixins\\_breakpoints.scss",
-      "PackagePath": "staticwebassets\\login-form-20\\scss login\\bootstrap\\mixins\\_breakpoints.scss"
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss_login\\bootstrap\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\mixins\\_reset-text.scss"
     },
     {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\scss login\\bootstrap\\mixins\\_buttons.scss",
-      "PackagePath": "staticwebassets\\login-form-20\\scss login\\bootstrap\\mixins\\_buttons.scss"
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss_login\\bootstrap\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\mixins\\_resize.scss"
     },
     {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\scss login\\bootstrap\\mixins\\_caret.scss",
-      "PackagePath": "staticwebassets\\login-form-20\\scss login\\bootstrap\\mixins\\_caret.scss"
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss_login\\bootstrap\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\mixins\\_screen-reader.scss"
     },
     {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\scss login\\bootstrap\\mixins\\_clearfix.scss",
-      "PackagePath": "staticwebassets\\login-form-20\\scss login\\bootstrap\\mixins\\_clearfix.scss"
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss_login\\bootstrap\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\mixins\\_size.scss"
     },
     {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\scss login\\bootstrap\\mixins\\_deprecate.scss",
-      "PackagePath": "staticwebassets\\login-form-20\\scss login\\bootstrap\\mixins\\_deprecate.scss"
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss_login\\bootstrap\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\mixins\\_table-row.scss"
     },
     {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\scss login\\bootstrap\\mixins\\_float.scss",
-      "PackagePath": "staticwebassets\\login-form-20\\scss login\\bootstrap\\mixins\\_float.scss"
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss_login\\bootstrap\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\mixins\\_text-emphasis.scss"
     },
     {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\scss login\\bootstrap\\mixins\\_forms.scss",
-      "PackagePath": "staticwebassets\\login-form-20\\scss login\\bootstrap\\mixins\\_forms.scss"
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss_login\\bootstrap\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\mixins\\_text-hide.scss"
     },
     {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\scss login\\bootstrap\\mixins\\_gradients.scss",
-      "PackagePath": "staticwebassets\\login-form-20\\scss login\\bootstrap\\mixins\\_gradients.scss"
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss_login\\bootstrap\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\mixins\\_text-truncate.scss"
     },
     {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\scss login\\bootstrap\\mixins\\_grid-framework.scss",
-      "PackagePath": "staticwebassets\\login-form-20\\scss login\\bootstrap\\mixins\\_grid-framework.scss"
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss_login\\bootstrap\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\mixins\\_transition.scss"
     },
     {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\scss login\\bootstrap\\mixins\\_grid.scss",
-      "PackagePath": "staticwebassets\\login-form-20\\scss login\\bootstrap\\mixins\\_grid.scss"
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss_login\\bootstrap\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\mixins\\_visibility.scss"
     },
     {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\scss login\\bootstrap\\mixins\\_hover.scss",
-      "PackagePath": "staticwebassets\\login-form-20\\scss login\\bootstrap\\mixins\\_hover.scss"
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss_login\\bootstrap\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\utilities\\_align.scss"
     },
     {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\scss login\\bootstrap\\mixins\\_image.scss",
-      "PackagePath": "staticwebassets\\login-form-20\\scss login\\bootstrap\\mixins\\_image.scss"
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss_login\\bootstrap\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\utilities\\_background.scss"
     },
     {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\scss login\\bootstrap\\mixins\\_list-group.scss",
-      "PackagePath": "staticwebassets\\login-form-20\\scss login\\bootstrap\\mixins\\_list-group.scss"
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss_login\\bootstrap\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\utilities\\_borders.scss"
     },
     {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\scss login\\bootstrap\\mixins\\_lists.scss",
-      "PackagePath": "staticwebassets\\login-form-20\\scss login\\bootstrap\\mixins\\_lists.scss"
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss_login\\bootstrap\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\utilities\\_clearfix.scss"
     },
     {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\scss login\\bootstrap\\mixins\\_nav-divider.scss",
-      "PackagePath": "staticwebassets\\login-form-20\\scss login\\bootstrap\\mixins\\_nav-divider.scss"
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss_login\\bootstrap\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\utilities\\_display.scss"
     },
     {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\scss login\\bootstrap\\mixins\\_pagination.scss",
-      "PackagePath": "staticwebassets\\login-form-20\\scss login\\bootstrap\\mixins\\_pagination.scss"
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss_login\\bootstrap\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\utilities\\_embed.scss"
     },
     {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\scss login\\bootstrap\\mixins\\_reset-text.scss",
-      "PackagePath": "staticwebassets\\login-form-20\\scss login\\bootstrap\\mixins\\_reset-text.scss"
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss_login\\bootstrap\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\utilities\\_flex.scss"
     },
     {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\scss login\\bootstrap\\mixins\\_resize.scss",
-      "PackagePath": "staticwebassets\\login-form-20\\scss login\\bootstrap\\mixins\\_resize.scss"
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss_login\\bootstrap\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\utilities\\_float.scss"
     },
     {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\scss login\\bootstrap\\mixins\\_screen-reader.scss",
-      "PackagePath": "staticwebassets\\login-form-20\\scss login\\bootstrap\\mixins\\_screen-reader.scss"
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss_login\\bootstrap\\utilities\\_overflow.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\utilities\\_overflow.scss"
     },
     {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\scss login\\bootstrap\\mixins\\_size.scss",
-      "PackagePath": "staticwebassets\\login-form-20\\scss login\\bootstrap\\mixins\\_size.scss"
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss_login\\bootstrap\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\utilities\\_position.scss"
     },
     {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\scss login\\bootstrap\\mixins\\_table-row.scss",
-      "PackagePath": "staticwebassets\\login-form-20\\scss login\\bootstrap\\mixins\\_table-row.scss"
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss_login\\bootstrap\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\utilities\\_screenreaders.scss"
     },
     {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\scss login\\bootstrap\\mixins\\_text-emphasis.scss",
-      "PackagePath": "staticwebassets\\login-form-20\\scss login\\bootstrap\\mixins\\_text-emphasis.scss"
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss_login\\bootstrap\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\utilities\\_shadows.scss"
     },
     {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\scss login\\bootstrap\\mixins\\_text-hide.scss",
-      "PackagePath": "staticwebassets\\login-form-20\\scss login\\bootstrap\\mixins\\_text-hide.scss"
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss_login\\bootstrap\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\utilities\\_sizing.scss"
     },
     {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\scss login\\bootstrap\\mixins\\_text-truncate.scss",
-      "PackagePath": "staticwebassets\\login-form-20\\scss login\\bootstrap\\mixins\\_text-truncate.scss"
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss_login\\bootstrap\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\utilities\\_spacing.scss"
     },
     {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\scss login\\bootstrap\\mixins\\_transition.scss",
-      "PackagePath": "staticwebassets\\login-form-20\\scss login\\bootstrap\\mixins\\_transition.scss"
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss_login\\bootstrap\\utilities\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\utilities\\_stretched-link.scss"
     },
     {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\scss login\\bootstrap\\mixins\\_visibility.scss",
-      "PackagePath": "staticwebassets\\login-form-20\\scss login\\bootstrap\\mixins\\_visibility.scss"
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss_login\\bootstrap\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\utilities\\_text.scss"
     },
     {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\scss login\\bootstrap\\utilities\\_align.scss",
-      "PackagePath": "staticwebassets\\login-form-20\\scss login\\bootstrap\\utilities\\_align.scss"
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss_login\\bootstrap\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\utilities\\_visibility.scss"
     },
     {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\scss login\\bootstrap\\utilities\\_background.scss",
-      "PackagePath": "staticwebassets\\login-form-20\\scss login\\bootstrap\\utilities\\_background.scss"
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss_login\\bootstrap\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\scss_login\\bootstrap\\vendor\\_rfs.scss"
     },
     {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\scss login\\bootstrap\\utilities\\_borders.scss",
-      "PackagePath": "staticwebassets\\login-form-20\\scss login\\bootstrap\\utilities\\_borders.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\scss login\\bootstrap\\utilities\\_clearfix.scss",
-      "PackagePath": "staticwebassets\\login-form-20\\scss login\\bootstrap\\utilities\\_clearfix.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\scss login\\bootstrap\\utilities\\_display.scss",
-      "PackagePath": "staticwebassets\\login-form-20\\scss login\\bootstrap\\utilities\\_display.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\scss login\\bootstrap\\utilities\\_embed.scss",
-      "PackagePath": "staticwebassets\\login-form-20\\scss login\\bootstrap\\utilities\\_embed.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\scss login\\bootstrap\\utilities\\_flex.scss",
-      "PackagePath": "staticwebassets\\login-form-20\\scss login\\bootstrap\\utilities\\_flex.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\scss login\\bootstrap\\utilities\\_float.scss",
-      "PackagePath": "staticwebassets\\login-form-20\\scss login\\bootstrap\\utilities\\_float.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\scss login\\bootstrap\\utilities\\_overflow.scss",
-      "PackagePath": "staticwebassets\\login-form-20\\scss login\\bootstrap\\utilities\\_overflow.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\scss login\\bootstrap\\utilities\\_position.scss",
-      "PackagePath": "staticwebassets\\login-form-20\\scss login\\bootstrap\\utilities\\_position.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\scss login\\bootstrap\\utilities\\_screenreaders.scss",
-      "PackagePath": "staticwebassets\\login-form-20\\scss login\\bootstrap\\utilities\\_screenreaders.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\scss login\\bootstrap\\utilities\\_shadows.scss",
-      "PackagePath": "staticwebassets\\login-form-20\\scss login\\bootstrap\\utilities\\_shadows.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\scss login\\bootstrap\\utilities\\_sizing.scss",
-      "PackagePath": "staticwebassets\\login-form-20\\scss login\\bootstrap\\utilities\\_sizing.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\scss login\\bootstrap\\utilities\\_spacing.scss",
-      "PackagePath": "staticwebassets\\login-form-20\\scss login\\bootstrap\\utilities\\_spacing.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\scss login\\bootstrap\\utilities\\_stretched-link.scss",
-      "PackagePath": "staticwebassets\\login-form-20\\scss login\\bootstrap\\utilities\\_stretched-link.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\scss login\\bootstrap\\utilities\\_text.scss",
-      "PackagePath": "staticwebassets\\login-form-20\\scss login\\bootstrap\\utilities\\_text.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\scss login\\bootstrap\\utilities\\_visibility.scss",
-      "PackagePath": "staticwebassets\\login-form-20\\scss login\\bootstrap\\utilities\\_visibility.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\scss login\\bootstrap\\vendor\\_rfs.scss",
-      "PackagePath": "staticwebassets\\login-form-20\\scss login\\bootstrap\\vendor\\_rfs.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\login-form-20\\scss login\\style.scss",
-      "PackagePath": "staticwebassets\\login-form-20\\scss login\\style.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss login\\bootstrap\\_alert.scss",
-      "PackagePath": "staticwebassets\\scss login\\bootstrap\\_alert.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss login\\bootstrap\\_badge.scss",
-      "PackagePath": "staticwebassets\\scss login\\bootstrap\\_badge.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss login\\bootstrap\\_breadcrumb.scss",
-      "PackagePath": "staticwebassets\\scss login\\bootstrap\\_breadcrumb.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss login\\bootstrap\\_button-group.scss",
-      "PackagePath": "staticwebassets\\scss login\\bootstrap\\_button-group.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss login\\bootstrap\\_buttons.scss",
-      "PackagePath": "staticwebassets\\scss login\\bootstrap\\_buttons.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss login\\bootstrap\\_card.scss",
-      "PackagePath": "staticwebassets\\scss login\\bootstrap\\_card.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss login\\bootstrap\\_carousel.scss",
-      "PackagePath": "staticwebassets\\scss login\\bootstrap\\_carousel.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss login\\bootstrap\\_close.scss",
-      "PackagePath": "staticwebassets\\scss login\\bootstrap\\_close.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss login\\bootstrap\\_code.scss",
-      "PackagePath": "staticwebassets\\scss login\\bootstrap\\_code.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss login\\bootstrap\\_custom-forms.scss",
-      "PackagePath": "staticwebassets\\scss login\\bootstrap\\_custom-forms.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss login\\bootstrap\\_dropdown.scss",
-      "PackagePath": "staticwebassets\\scss login\\bootstrap\\_dropdown.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss login\\bootstrap\\_forms.scss",
-      "PackagePath": "staticwebassets\\scss login\\bootstrap\\_forms.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss login\\bootstrap\\_functions.scss",
-      "PackagePath": "staticwebassets\\scss login\\bootstrap\\_functions.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss login\\bootstrap\\_grid.scss",
-      "PackagePath": "staticwebassets\\scss login\\bootstrap\\_grid.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss login\\bootstrap\\_images.scss",
-      "PackagePath": "staticwebassets\\scss login\\bootstrap\\_images.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss login\\bootstrap\\_input-group.scss",
-      "PackagePath": "staticwebassets\\scss login\\bootstrap\\_input-group.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss login\\bootstrap\\_jumbotron.scss",
-      "PackagePath": "staticwebassets\\scss login\\bootstrap\\_jumbotron.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss login\\bootstrap\\_list-group.scss",
-      "PackagePath": "staticwebassets\\scss login\\bootstrap\\_list-group.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss login\\bootstrap\\_media.scss",
-      "PackagePath": "staticwebassets\\scss login\\bootstrap\\_media.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss login\\bootstrap\\_mixins.scss",
-      "PackagePath": "staticwebassets\\scss login\\bootstrap\\_mixins.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss login\\bootstrap\\_modal.scss",
-      "PackagePath": "staticwebassets\\scss login\\bootstrap\\_modal.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss login\\bootstrap\\_nav.scss",
-      "PackagePath": "staticwebassets\\scss login\\bootstrap\\_nav.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss login\\bootstrap\\_navbar.scss",
-      "PackagePath": "staticwebassets\\scss login\\bootstrap\\_navbar.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss login\\bootstrap\\_pagination.scss",
-      "PackagePath": "staticwebassets\\scss login\\bootstrap\\_pagination.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss login\\bootstrap\\_popover.scss",
-      "PackagePath": "staticwebassets\\scss login\\bootstrap\\_popover.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss login\\bootstrap\\_print.scss",
-      "PackagePath": "staticwebassets\\scss login\\bootstrap\\_print.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss login\\bootstrap\\_progress.scss",
-      "PackagePath": "staticwebassets\\scss login\\bootstrap\\_progress.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss login\\bootstrap\\_reboot.scss",
-      "PackagePath": "staticwebassets\\scss login\\bootstrap\\_reboot.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss login\\bootstrap\\_root.scss",
-      "PackagePath": "staticwebassets\\scss login\\bootstrap\\_root.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss login\\bootstrap\\_spinners.scss",
-      "PackagePath": "staticwebassets\\scss login\\bootstrap\\_spinners.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss login\\bootstrap\\_tables.scss",
-      "PackagePath": "staticwebassets\\scss login\\bootstrap\\_tables.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss login\\bootstrap\\_toasts.scss",
-      "PackagePath": "staticwebassets\\scss login\\bootstrap\\_toasts.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss login\\bootstrap\\_tooltip.scss",
-      "PackagePath": "staticwebassets\\scss login\\bootstrap\\_tooltip.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss login\\bootstrap\\_transitions.scss",
-      "PackagePath": "staticwebassets\\scss login\\bootstrap\\_transitions.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss login\\bootstrap\\_type.scss",
-      "PackagePath": "staticwebassets\\scss login\\bootstrap\\_type.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss login\\bootstrap\\_utilities.scss",
-      "PackagePath": "staticwebassets\\scss login\\bootstrap\\_utilities.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss login\\bootstrap\\_variables.scss",
-      "PackagePath": "staticwebassets\\scss login\\bootstrap\\_variables.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss login\\bootstrap\\bootstrap-grid.scss",
-      "PackagePath": "staticwebassets\\scss login\\bootstrap\\bootstrap-grid.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss login\\bootstrap\\bootstrap-reboot.scss",
-      "PackagePath": "staticwebassets\\scss login\\bootstrap\\bootstrap-reboot.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss login\\bootstrap\\bootstrap.scss",
-      "PackagePath": "staticwebassets\\scss login\\bootstrap\\bootstrap.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss login\\bootstrap\\mixins\\_alert.scss",
-      "PackagePath": "staticwebassets\\scss login\\bootstrap\\mixins\\_alert.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss login\\bootstrap\\mixins\\_background-variant.scss",
-      "PackagePath": "staticwebassets\\scss login\\bootstrap\\mixins\\_background-variant.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss login\\bootstrap\\mixins\\_badge.scss",
-      "PackagePath": "staticwebassets\\scss login\\bootstrap\\mixins\\_badge.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss login\\bootstrap\\mixins\\_border-radius.scss",
-      "PackagePath": "staticwebassets\\scss login\\bootstrap\\mixins\\_border-radius.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss login\\bootstrap\\mixins\\_box-shadow.scss",
-      "PackagePath": "staticwebassets\\scss login\\bootstrap\\mixins\\_box-shadow.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss login\\bootstrap\\mixins\\_breakpoints.scss",
-      "PackagePath": "staticwebassets\\scss login\\bootstrap\\mixins\\_breakpoints.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss login\\bootstrap\\mixins\\_buttons.scss",
-      "PackagePath": "staticwebassets\\scss login\\bootstrap\\mixins\\_buttons.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss login\\bootstrap\\mixins\\_caret.scss",
-      "PackagePath": "staticwebassets\\scss login\\bootstrap\\mixins\\_caret.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss login\\bootstrap\\mixins\\_clearfix.scss",
-      "PackagePath": "staticwebassets\\scss login\\bootstrap\\mixins\\_clearfix.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss login\\bootstrap\\mixins\\_deprecate.scss",
-      "PackagePath": "staticwebassets\\scss login\\bootstrap\\mixins\\_deprecate.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss login\\bootstrap\\mixins\\_float.scss",
-      "PackagePath": "staticwebassets\\scss login\\bootstrap\\mixins\\_float.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss login\\bootstrap\\mixins\\_forms.scss",
-      "PackagePath": "staticwebassets\\scss login\\bootstrap\\mixins\\_forms.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss login\\bootstrap\\mixins\\_gradients.scss",
-      "PackagePath": "staticwebassets\\scss login\\bootstrap\\mixins\\_gradients.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss login\\bootstrap\\mixins\\_grid-framework.scss",
-      "PackagePath": "staticwebassets\\scss login\\bootstrap\\mixins\\_grid-framework.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss login\\bootstrap\\mixins\\_grid.scss",
-      "PackagePath": "staticwebassets\\scss login\\bootstrap\\mixins\\_grid.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss login\\bootstrap\\mixins\\_hover.scss",
-      "PackagePath": "staticwebassets\\scss login\\bootstrap\\mixins\\_hover.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss login\\bootstrap\\mixins\\_image.scss",
-      "PackagePath": "staticwebassets\\scss login\\bootstrap\\mixins\\_image.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss login\\bootstrap\\mixins\\_list-group.scss",
-      "PackagePath": "staticwebassets\\scss login\\bootstrap\\mixins\\_list-group.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss login\\bootstrap\\mixins\\_lists.scss",
-      "PackagePath": "staticwebassets\\scss login\\bootstrap\\mixins\\_lists.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss login\\bootstrap\\mixins\\_nav-divider.scss",
-      "PackagePath": "staticwebassets\\scss login\\bootstrap\\mixins\\_nav-divider.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss login\\bootstrap\\mixins\\_pagination.scss",
-      "PackagePath": "staticwebassets\\scss login\\bootstrap\\mixins\\_pagination.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss login\\bootstrap\\mixins\\_reset-text.scss",
-      "PackagePath": "staticwebassets\\scss login\\bootstrap\\mixins\\_reset-text.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss login\\bootstrap\\mixins\\_resize.scss",
-      "PackagePath": "staticwebassets\\scss login\\bootstrap\\mixins\\_resize.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss login\\bootstrap\\mixins\\_screen-reader.scss",
-      "PackagePath": "staticwebassets\\scss login\\bootstrap\\mixins\\_screen-reader.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss login\\bootstrap\\mixins\\_size.scss",
-      "PackagePath": "staticwebassets\\scss login\\bootstrap\\mixins\\_size.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss login\\bootstrap\\mixins\\_table-row.scss",
-      "PackagePath": "staticwebassets\\scss login\\bootstrap\\mixins\\_table-row.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss login\\bootstrap\\mixins\\_text-emphasis.scss",
-      "PackagePath": "staticwebassets\\scss login\\bootstrap\\mixins\\_text-emphasis.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss login\\bootstrap\\mixins\\_text-hide.scss",
-      "PackagePath": "staticwebassets\\scss login\\bootstrap\\mixins\\_text-hide.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss login\\bootstrap\\mixins\\_text-truncate.scss",
-      "PackagePath": "staticwebassets\\scss login\\bootstrap\\mixins\\_text-truncate.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss login\\bootstrap\\mixins\\_transition.scss",
-      "PackagePath": "staticwebassets\\scss login\\bootstrap\\mixins\\_transition.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss login\\bootstrap\\mixins\\_visibility.scss",
-      "PackagePath": "staticwebassets\\scss login\\bootstrap\\mixins\\_visibility.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss login\\bootstrap\\utilities\\_align.scss",
-      "PackagePath": "staticwebassets\\scss login\\bootstrap\\utilities\\_align.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss login\\bootstrap\\utilities\\_background.scss",
-      "PackagePath": "staticwebassets\\scss login\\bootstrap\\utilities\\_background.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss login\\bootstrap\\utilities\\_borders.scss",
-      "PackagePath": "staticwebassets\\scss login\\bootstrap\\utilities\\_borders.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss login\\bootstrap\\utilities\\_clearfix.scss",
-      "PackagePath": "staticwebassets\\scss login\\bootstrap\\utilities\\_clearfix.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss login\\bootstrap\\utilities\\_display.scss",
-      "PackagePath": "staticwebassets\\scss login\\bootstrap\\utilities\\_display.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss login\\bootstrap\\utilities\\_embed.scss",
-      "PackagePath": "staticwebassets\\scss login\\bootstrap\\utilities\\_embed.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss login\\bootstrap\\utilities\\_flex.scss",
-      "PackagePath": "staticwebassets\\scss login\\bootstrap\\utilities\\_flex.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss login\\bootstrap\\utilities\\_float.scss",
-      "PackagePath": "staticwebassets\\scss login\\bootstrap\\utilities\\_float.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss login\\bootstrap\\utilities\\_overflow.scss",
-      "PackagePath": "staticwebassets\\scss login\\bootstrap\\utilities\\_overflow.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss login\\bootstrap\\utilities\\_position.scss",
-      "PackagePath": "staticwebassets\\scss login\\bootstrap\\utilities\\_position.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss login\\bootstrap\\utilities\\_screenreaders.scss",
-      "PackagePath": "staticwebassets\\scss login\\bootstrap\\utilities\\_screenreaders.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss login\\bootstrap\\utilities\\_shadows.scss",
-      "PackagePath": "staticwebassets\\scss login\\bootstrap\\utilities\\_shadows.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss login\\bootstrap\\utilities\\_sizing.scss",
-      "PackagePath": "staticwebassets\\scss login\\bootstrap\\utilities\\_sizing.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss login\\bootstrap\\utilities\\_spacing.scss",
-      "PackagePath": "staticwebassets\\scss login\\bootstrap\\utilities\\_spacing.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss login\\bootstrap\\utilities\\_stretched-link.scss",
-      "PackagePath": "staticwebassets\\scss login\\bootstrap\\utilities\\_stretched-link.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss login\\bootstrap\\utilities\\_text.scss",
-      "PackagePath": "staticwebassets\\scss login\\bootstrap\\utilities\\_text.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss login\\bootstrap\\utilities\\_visibility.scss",
-      "PackagePath": "staticwebassets\\scss login\\bootstrap\\utilities\\_visibility.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss login\\bootstrap\\vendor\\_rfs.scss",
-      "PackagePath": "staticwebassets\\scss login\\bootstrap\\vendor\\_rfs.scss"
-    },
-    {
-      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss login\\style.scss",
-      "PackagePath": "staticwebassets\\scss login\\style.scss"
+      "Id": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_webapp_projectt\\wwwroot\\scss_login\\style.scss",
+      "PackagePath": "staticwebassets\\scss_login\\style.scss"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.food_webapp_projectt.props",
