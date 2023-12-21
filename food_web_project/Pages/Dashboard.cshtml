@@ -155,7 +155,7 @@
         <div class="nav-left-sidebar sidebar-dark">
             <div class="menu-list">
                 <nav class="navbar navbar-expand-lg navbar-light">
-                    <a class="d-xl-none d-lg-none" href="#">Navigate</a>
+                    <a class="d-xl-none d-lg-none" href="#">Menu</a>
                     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="navbar-toggler-icon"></span>
                     </button>
@@ -166,12 +166,20 @@
                             </li>
 
                             <li class="nav-item">
-                                <a class="nav-link" asp-page="/Profile">Profile</a>
+                                <a class="nav-link" asp-page="/Dashboard">Dashboard</a>
+                            </li>
+  
+                            <!-- toggle the items -->
+                            <li class="nav-item">
+                                <a class="nav-link">items</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" asp-page="Add_Product">add Products</a>
+                                <a class="nav-link" asp-page="/Product_Admin"> view items</a>
                             </li>
-                           
+                            <li class="nav-item">
+                                <a class="nav-link" asp-page="/Add_Items">Add Items</a>
+                            </li>
+
 
                         </ul>
                     </div>

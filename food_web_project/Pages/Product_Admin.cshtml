@@ -1,0 +1,592 @@
+﻿@page
+@model food_web_project.Pages.Product_AdminModel
+@{
+}
+<!doctype html>
+<html lang="en">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- Bootstrap CSS -->
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600,700' rel='stylesheet' type='text/css'>
+
+    <script src="~/assets_admin/js/libs/jquery-3.1.1.min.js"></script>
+    <script src="~/assets_admin/js/loader.js"></script>
+    <script src="~/bootstrap_admin/js/popper.min.js"></script>
+    <script src="~/bootstrap_admin/js/bootstrap.min.js"></script>
+    <script src="~/plugins_admin/scrollbar/jquery.mCustomScrollbar.concat.min.js"></script>
+    <script src="~/assets_admin/js/app.js"></script>
+
+    <link rel="stylesheet" href="~/assets/vendor/bootstrap/css/bootstrap.min.css">
+    <link href="~/assets/vendor/fonts/circular-std/style.css" rel="stylesheet">
+    <link rel="stylesheet" href="~/assets/libs/css/style.css">
+    <link rel="stylesheet" href="~/assets/vendor/fonts/fontawesome/css/fontawesome-all.css">
+    <title>cusinely - Payment</title>
+    <link rel="shortcut icon" href="~/images_login/cuisinely.png">
+    <script src="~/assets_admin/js/custom.js"></script>
+    <script src="~/assets_admin/js/app.js"></script>
+    <script src="~/assets_admin/js/loader.js"></script>
+    <link href="~/assets_admin/css/main.css" rel="stylesheet" />
+    <link href="~/plugins_admin/flaticon/style.css" rel="stylesheet" />
+    <!--  BEGIN CUSTOM STYLE FILE  -->
+    <link rel="stylesheet" type="text/css" href="~/plugins_admin/table/datatable/datatables.css">
+    <link rel="stylesheet" type="text/css" href="~/assets_admin/css/ecommerce/product.css">
+    <!--  END CUSTOM STYLE FILE  -->
+</head>
+
+<body>
+    <!-- ============================================================== -->
+    <!-- main wrapper -->
+    <!-- ============================================================== -->
+    <div class="dashboard-main-wrapper">
+        <!-- ============================================================== -->
+        <!-- navbar -->
+        <!-- ============================================================== -->
+        <div class="dashboard-header">
+            <nav class="navbar navbar-expand-lg bg-white fixed-top">
+                <a asp-page="/Index" class="navbar-brand" style="color: #FFA500;">Cuisinely</a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse " id="navbarSupportedContent">
+                    <ul class="navbar-nav ml-auto navbar-right-top">
+                        <li class="nav-item">
+                            <div id="custom-search" class="top-search-bar">
+                                <input class="form-control" type="text" placeholder="Search..">
+                            </div>
+                        </li>
+                        <li class="nav-item dropdown notification">
+                            <a class="nav-link nav-icons" href="#" id="navbarDropdownMenuLink1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="fas fa-fw fa-bell"></i> <span class="indicator"></span></a>
+                            <ul class="dropdown-menu dropdown-menu-right notification-dropdown">
+                                <li>
+                                    <div class="notification-title"> Notification</div>
+                                    <div class="notification-list">
+                                        <div class="list-group">
+                                            <a href="#" class="list-group-item list-group-item-action active">
+                                                <div class="notification-info">
+                                                    <div class="notification-list-user-img"><img src="~/assets/images/avatar-2.jpg" alt="" class="user-avatar-md rounded-circle"></div>
+                                                    <div class="notification-list-user-block">
+                                                        <span class="notification-list-user-name">Jeremy Rakestraw</span>accepted your invitation to join the team.
+                                                        <div class="notification-date">2 min ago</div>
+                                                    </div>
+                                                </div>
+                                            </a>
+                                            <a href="#" class="list-group-item list-group-item-action">
+                                                <div class="notification-info">
+                                                    <div class="notification-list-user-img"><img src="~/assets/images/avatar-3.jpg" alt="" class="user-avatar-md rounded-circle"></div>
+                                                    <div class="notification-list-user-block">
+                                                        <span class="notification-list-user-name">John Abraham </span>is now following you
+                                                        <div class="notification-date">2 days ago</div>
+                                                    </div>
+                                                </div>
+                                            </a>
+                                            <a href="#" class="list-group-item list-group-item-action">
+                                                <div class="notification-info">
+                                                    <div class="notification-list-user-img"><img src="~/assets/images/avatar-4.jpg" alt="" class="user-avatar-md rounded-circle"></div>
+                                                    <div class="notification-list-user-block">
+                                                        <span class="notification-list-user-name">Monaan Pechi</span> is watching your main repository
+                                                        <div class="notification-date">2 min ago</div>
+                                                    </div>
+                                                </div>
+                                            </a>
+                                            <a href="#" class="list-group-item list-group-item-action">
+                                                <div class="notification-info">
+                                                    <div class="notification-list-user-img"><img src="~/assets/images/avatar-5.jpg" alt="" class="user-avatar-md rounded-circle"></div>
+                                                    <div class="notification-list-user-block">
+                                                        <span class="notification-list-user-name">Jessica Caruso</span>accepted your invitation to join the team.
+                                                        <div class="notification-date">2 min ago</div>
+                                                    </div>
+                                                </div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="list-footer"> <a href="#">View all notifications</a></div>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="nav-item dropdown connection">
+                            <a class="nav-link" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> <i class="fas fa-fw fa-th"></i> </a>
+                            <ul class="dropdown-menu dropdown-menu-right connection-dropdown">
+                                <li class="connection-list">
+                                    @* <div class="row">
+                                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12 ">
+                                            <a href="#" class="connection-item"><img src="~/assets/images/github.png" alt=""> <span>Github</span></a>
+                                        </div>
+                                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12 ">
+                                            <a href="#" class="connection-item"><img src="~/assets/images/dribbble.png" alt=""> <span>Dribbble</span></a>
+                                        </div>
+                                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12 ">
+                                            <a href="#" class="connection-item"><img src="~/assets/images/dropbox.png" alt=""> <span>Dropbox</span></a>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12 ">
+                                            <a href="#" class="connection-item"><img src="~/assets/images/bitbucket.png" alt=""> <span>Bitbucket</span></a>
+                                        </div>
+                                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12 ">
+                                            <a href="#" class="connection-item"><img src="~/assets/images/mail_chimp.png" alt=""><span>Mail chimp</span></a>
+                                        </div>
+                                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12 ">
+                                            <a href="#" class="connection-item"><img src="~/assets/images/slack.png" alt=""> <span>Slack</span></a>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="conntection-footer"><a href="#">More</a></div>
+                                </li> *@
+                            </ul>
+                        </li>
+                        <li class="nav-item dropdown nav-user">
+                            <a class="nav-link nav-user-img" href="#" id="navbarDropdownMenuLink2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><img src="~/assets/images/avatar-1.jpg" alt="" class="user-avatar-md rounded-circle"></a>
+                            <div class="dropdown-menu dropdown-menu-right nav-user-dropdown" aria-labelledby="navbarDropdownMenuLink2">
+                                <div class="nav-user-info">
+                                    <h5 class="mb-0 text-white nav-user-name">John Abraham </h5>
+                                    <span class="status"></span><span class="ml-2">Available</span>
+                                </div>
+                                <a class="dropdown-item" asp-page="/User_Profile"><i class="fas fa-user mr-2"></i>Account</a>
+@*                                 <a class="dropdown-item" href="#"><i class="fas fa-cog mr-2"></i>Setting</a>
+ *@                                <a class="dropdown-item" asp-page="/Index"><i class="fas fa-power-off mr-2"></i>Logout</a>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </nav>
+        </div>
+        <!-- ============================================================== -->
+        <!-- end navbar -->
+        <!-- ============================================================== -->
+        <!-- ============================================================== -->
+        <!-- left sidebar -->
+        <!-- ============================================================== -->
+        <div class="nav-left-sidebar sidebar-dark">
+            <div class="menu-list">
+                <nav class="navbar navbar-expand-lg navbar-light">
+                    <a class="d-xl-none d-lg-none" href="#">Menu</a>
+                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="collapse navbar-collapse" id="navbarNav">
+                        <ul class="navbar-nav flex-column">
+                            <li class="nav-divider">
+                                Menu
+                            </li>
+
+                            <!-- Profile -->
+                            <li class="nav-item">
+                                <a class="nav-link" asp-page="/Dashboard">Dashboard</a>
+                            </li>
+                            <!-- toggle the items -->
+                            <li class="nav-item">
+                                <a class="nav-link">items</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" asp-page="/Product_Admin"> view items</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" asp-page="/Add_Items">Add Items</a>
+                            </li>
+
+                        </ul>
+                    </div>
+                </nav>
+            </div>
+        </div>
+        <!-- ============================================================== -->
+        <!-- end left sidebar -->
+        <!-- ============================================================== -->
+        <!-- ============================================================== -->
+        <!-- wrapper  -->
+        <!-- ============================================================== -->
+        <div class="dashboard-wrapper">
+            <div class="dashboard-Cuisinely">
+                <div class="container-fluid dashboard-content ">
+                    <!-- ============================================================== -->
+                    <!-- pageheader  -->
+                    <!-- ============================================================== -->
+                    <div class="row">
+                        <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                            <div class="page-header">
+                                <h2 class="pageheader-title">CUISINELY SHOW PRODUCTS </h2>
+                                <p class="pageheader-text">Nulla euismod urna eros, sit amet scelerisque torton lectus vel mauris facilisis faucibus at enim quis massa lobortis rutrum.</p>
+                                <div class="page-breadcrumb">
+                                    <nav aria-label="breadcrumb">
+                                        <ol class="breadcrumb">
+                                            <li class="breadcrumb-item"><a href="#" class="breadcrumb-link">Cuisinely</a></li>
+                                            <li class="breadcrumb-item active" aria-current="page">Cuisinely Product Checkout</li>
+                                        </ol>
+                                    </nav>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- ============================================================== -->
+                    <!-- end pageheader  -->
+                    <!-- ============================================================== -->
+
+                    <div class="row margin-bottom-120">
+                        <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                            <div class="statbox widget box box-shadow">
+                                <div class="widget-header">
+                                    <div class="row">
+                                        <div class="col-xl-12 col-md-12 col-sm-12 col-12">
+                                            <h4>Product List </h4>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="widget-content widget-content-area">
+                                    <div class="table-responsive mb-4">
+                                        <table id="ecommerce-product-list" class="table  table-bordered">
+                                            <thead>
+                                                <tr>
+                                                    <th>ID</th>
+                                                    <th>Image</th>
+                                                    <th>Name</th>
+                                                    <th>Type</th>
+                                                    <th>Category</th>
+                                                    <th>Price</th>
+                                                    <th>Quantity</th>
+                                                    <th class="align-center">Status</th>
+                                                    <th class="align-center">Action</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr>
+                                                    <td>0010</td>
+                                                    <td class="text-center">
+                                                        <a class="product-list-img" href="javascript: void(0);"><img src="~/assets_admin/img/001.jpg" alt="product"></a>
+                                                    </td>
+                                                    <td>..</td>
+                                                    <td>Simple Product</td>
+                                                    <td>EAST FOOD</td>
+                                                    <td>$120.00</td>
+                                                    <td>80,000</td>
+                                                    <td class="text-center"> <i class="flaticon-cart-bag-1"></i> </td>
+                                                    <td class="align-center">
+                                                        <ul class="table-controls">
+                                                            <li>
+                                                                <a href="javascript:void(0);" data-toggle="tooltip" data-placement="top" title="Edit">
+                                                                    <i class="flaticon-edit"></i>
+                                                                </a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="javascript:void(0);" data-toggle="tooltip" data-placement="top" title="Delete">
+                                                                    <i class="flaticon-delete-5"></i>
+                                                                </a>
+                                                            </li>
+                                                        </ul>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td>0011</td>
+                                                    <td class="text-center">
+                                                        <a class="product-list-img" href="javascript: void(0);"><img src="~/assets_admin/img/002.jpg" alt="product"></a>
+                                                    </td>
+                                                    <td>Flower Pot</td>
+                                                    <td>Simple Product</td>
+                                                    <td>WEST FOOD</td>
+                                                    <td>149.00L.E</td>
+                                                    <td>64,000</td>
+                                                    <td class="text-center"> <i class="flaticon-cart-bag"></i> </td>
+                                                    <td class="align-center">
+                                                        <ul class="table-controls">
+                                                            <li>
+                                                                <a href="javascript:void(0);" data-toggle="tooltip" data-placement="top" title="Edit">
+                                                                    <i class="flaticon-edit"></i>
+                                                                </a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="javascript:void(0);" data-toggle="tooltip" data-placement="top" title="Delete">
+                                                                    <i class="flaticon-delete-5"></i>
+                                                                </a>
+                                                            </li>
+                                                        </ul>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td>0012</td>
+                                                    <td class="text-center">
+                                                        <a class="product-list-img" href="javascript: void(0);"><img src="~/assets_admin/img/003.jpg" alt="product"></a>
+                                                    </td>
+                                                    <td>Chair</td>
+                                                    <td>Simple Product</td>
+                                                    <td>Furniture</td>
+                                                    <td>49.00L.E</td>
+                                                    <td>42,000</td>
+                                                    <td class="text-center"> <i class="flaticon-cart-bag-1"></i> </td>
+                                                    <td class="align-center">
+                                                        <ul class="table-controls">
+                                                            <li>
+                                                                <a href="javascript:void(0);" data-toggle="tooltip" data-placement="top" title="Edit">
+                                                                    <i class="flaticon-edit"></i>
+                                                                </a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="javascript:void(0);" data-toggle="tooltip" data-placement="top" title="Delete">
+                                                                    <i class="flaticon-delete-5"></i>
+                                                                </a>
+                                                            </li>
+                                                        </ul>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td>0013</td>
+                                                    <td class="text-center">
+                                                        <a class="product-list-img" href="javascript: void(0);"><img src="~/assets_admin/img/004.jpg" alt="product"></a>
+                                                    </td>
+                                                    <td>..</td>
+                                                    <td>Simple Product</td>
+                                                    <td>Decor</td>
+                                                 
+                                                    <td>79.00L.E</td>
+                                                    <td>51,000</td>
+                                                    <td class="text-center"> <i class="flaticon-cart-bag-1"></i> </td>
+                                                    <td class="align-center">
+                                                        <ul class="table-controls">
+                                                            <li>
+                                                                <a href="javascript:void(0);" data-toggle="tooltip" data-placement="top" title="Edit">
+                                                                    <i class="flaticon-edit"></i>
+                                                                </a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="javascript:void(0);" data-toggle="tooltip" data-placement="top" title="Delete">
+                                                                    <i class="flaticon-delete-5"></i>
+                                                                </a>
+                                                            </li>
+                                                        </ul>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td>0014</td>
+                                                    <td class="text-center">
+                                                        <a class="product-list-img" href="javascript: void(0);"><img src="~/assets_admin/img/005.jpg" alt="product"></a>
+                                                    </td>
+                                                    <td>..</td>
+                                                    <td>Simple Product</td>
+                                                    <td>EAST FOOD</td>
+                                                    <td>$120.00</td>
+                                                    <td>80,000</td>
+                                                    <td class="text-center"> <i class="flaticon-cart-bag"></i> </td>
+                                                    <td class="align-center">
+                                                        <ul class="table-controls">
+                                                            <li>
+                                                                <a href="javascript:void(0);" data-toggle="tooltip" data-placement="top" title="Edit">
+                                                                    <i class="flaticon-edit"></i>
+                                                                </a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="javascript:void(0);" data-toggle="tooltip" data-placement="top" title="Delete">
+                                                                    <i class="flaticon-delete-5"></i>
+                                                                </a>
+                                                            </li>
+                                                        </ul>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td>0015</td>
+                                                    <td class="text-center">
+                                                        <a class="product-list-img" href="javascript: void(0);"><img src="~/assets_admin/img/006.jpg" alt="product"></a>
+                                                    </td>
+                                                    <td>..</td>
+                                                    <td>Simple Product</td>
+                                                    <td>JUICE</td>
+                                                    <td>149.00L.E</td>
+                                                    <td>64,000</td>
+                                                    <td class="text-center"> <i class="flaticon-cart-bag"></i> </td>
+                                                    <td class="align-center">
+                                                        <ul class="table-controls">
+                                                            <li>
+                                                                <a href="javascript:void(0);" data-toggle="tooltip" data-placement="top" title="Edit">
+                                                                    <i class="flaticon-edit"></i>
+                                                                </a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="javascript:void(0);" data-toggle="tooltip" data-placement="top" title="Delete">
+                                                                    <i class="flaticon-delete-5"></i>
+                                                                </a>
+                                                            </li>
+                                                        </ul>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td>0016</td>
+                                                    <td class="text-center">
+                                                        <a class="product-list-img" href="javascript: void(0);"><img src="~/assets_admin/img/007.jpg" alt="product"></a>
+                                                    </td>
+                                                    <td>Leather Bag</td>
+                                                    <td>Simple Product</td>
+                                                    <td>WEST FOOD</td>
+                                                    <td>49.00 L.E</td>
+                                                    <td>42,000</td>
+                                                    <td class="text-center"> <i class="flaticon-cart-bag-1"></i> </td>
+                                                    <td class="align-center">
+                                                        <ul class="table-controls">
+                                                            <li>
+                                                                <a href="javascript:void(0);" data-toggle="tooltip" data-placement="top" title="Edit">
+                                                                    <i class="flaticon-edit"></i>
+                                                                </a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="javascript:void(0);" data-toggle="tooltip" data-placement="top" title="Delete">
+                                                                    <i class="flaticon-delete-5"></i>
+                                                                </a>
+                                                            </li>
+                                                        </ul>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td>0017</td>
+                                                    <td class="text-center">
+                                                        <a class="product-list-img" href="javascript: void(0);"><img src="~/assets_admin/img/008.jpg" alt="product"></a>
+                                                    </td>
+                                                    <td>..</td>
+                                                    <td>Simple Product</td>
+                                                    <td>JUICE</td>
+                                                    <td>79.00 L.E</td>
+                                                    <td>51,000</td>
+                                                    <td class="text-center"> <i class="flaticon-cart-bag-1"></i> </td>
+                                                    <td class="align-center">
+                                                        <ul class="table-controls">
+                                                            <li>
+                                                                <a href="javascript:void(0);" data-toggle="tooltip" data-placement="top" title="Edit">
+                                                                    <i class="flaticon-edit"></i>
+                                                                </a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="javascript:void(0);" data-toggle="tooltip" data-placement="top" title="Delete">
+                                                                    <i class="flaticon-delete-5"></i>
+                                                                </a>
+                                                            </li>
+                                                        </ul>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td>0018</td>
+                                                    <td class="text-center">
+                                                        <a class="product-list-img" href="javascript: void(0);"><img src="~/assets_admin/img/009.jpg" alt="product"></a>
+                                                    </td>
+                                                    <td>Winter Boots</td>
+                                                    <td>Simple Product</td>
+                                                    <td>JUICE</td>
+                                                    <td>120.00L.E</td>
+                                                    <td>80,000</td>
+                                                    <td class="text-center"> <i class="flaticon-cart-bag"></i> </td>
+                                                    <td class="align-center">
+                                                        <ul class="table-controls">
+                                                            <li>
+                                                                <a href="javascript:void(0);" data-toggle="tooltip" data-placement="top" title="Edit">
+                                                                    <i class="flaticon-edit"></i>
+                                                                </a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="javascript:void(0);" data-toggle="tooltip" data-placement="top" title="Delete">
+                                                                    <i class="flaticon-delete-5"></i>
+                                                                </a>
+                                                            </li>
+                                                        </ul>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td>0019</td>
+                                                    <td class="text-center">
+                                                        <a class="product-list-img" href="javascript: void(0);"><img src="~/assets_admin/img/0010.jpg" alt="product"></a>
+                                                    </td>
+                                                    <td>Hover Board</td>
+                                                    <td>Simple Product</td>
+                                                    <td>Sports</td>
+                                                    <td>ITEM-0010</td>
+                                                    <td>$149.00</td>
+                                                    <td>64,000</td>
+                                                    <td class="align-center"> <i class="flaticon-cart-bag"></i> </td>
+                                                    <td class="align-center">
+                                                        <ul class="table-controls">
+                                                            <li>
+                                                                <a href="javascript:void(0);" data-toggle="tooltip" data-placement="top" title="Edit">
+                                                                    <i class="flaticon-edit"></i>
+                                                                </a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="javascript:void(0);" data-toggle="tooltip" data-placement="top" title="Delete">
+                                                                    <i class="flaticon-delete-5"></i>
+                                                                </a>
+                                                            </li>
+                                                        </ul>
+                                                    </td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- ============================================================== -->
+                <!-- footer -->
+                <!-- ============================================================== -->
+                <div class="footer">
+                    <div class="container-fluid">
+                        <div class="row">
+                            <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12">
+                            </div>
+                            @* <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12">
+                                <div class="text-md-right footer-links d-none d-sm-block">
+                                    <a href="javascript: void(0);">About</a>
+                                    <a href="javascript: void(0);">Support</a>
+                                    <a href="javascript: void(0);">Contact Us</a>
+                                </div>
+                            </div> *@
+                        </div>
+                    </div>
+                </div>
+                <!-- ============================================================== -->
+                <!-- end footer -->
+                <!-- ============================================================== -->
+            </div>
+            <!-- ============================================================== -->
+            <!-- end wrapper  -->
+            <!-- ============================================================== -->
+        </div>
+    </div>
+    <!-- ============================================================== -->
+    <!-- end main wrapper  -->
+    <!-- ============================================================== -->
+    <!-- Optional JavaScript -->
+    <!-- jquery 3.3.1  -->
+    <script src="~/assets/vendor/jquery/jquery-3.3.1.min.js"></script>
+    <!-- bootstap bundle js-->
+    <script src="~/assets/vendor/bootstrap/js/bootstrap.bundle.js"></script>
+    <!-- slimscroll js-->
+    <script src="~/assets/vendor/slimscroll/jquery.slimscroll.js"></script>
+    <!-- main js-->
+    <script src="~/assets/libs/js/main-js.js"></script>
+    
+
+    <script>
+        $(document).ready(function () {
+            App.init();
+        });
+    </script>
+    <script src="~/assets_admin/js/custom.js"></script>
+    <!-- END GLOBAL MANDATORY SCRIPTS -->
+    <!--  BEGIN CUSTOM SCRIPT FILES  -->
+    <script src="~/plugins_admin/table/datatable/datatables.js"></script>
+    <script>
+        $('#ecommerce-product-list').DataTable({
+            "lengthMenu": [5, 10, 20, 50, 100],
+            "language": {
+                "paginate": { "previous": "<i class='flaticon-arrow-left-1'></i>", "next": "<i class='flaticon-arrow-right'></i>" },
+                "info": "Showing page _PAGE_ of _PAGES_"
+            },
+            drawCallback: function (settings) { $('[data-toggle="tooltip"]').tooltip(); }
+        });
+    </script>
+    <!--  END CUSTOM SCRIPT FILES  -->
+</body>
+
+
+</html>

@@ -1,0 +1,1 @@
+chrome-extension://kjacjjdnoddnpbbcjilcajfhhbdhkpgk/firefox-rafz-fix.js

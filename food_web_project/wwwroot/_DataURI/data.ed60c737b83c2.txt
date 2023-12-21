@@ -1,0 +1,1 @@
+chrome-extension://ldjkgaaoikpmhmkelcgkgacicjfbofhh/bookmarklet.js
