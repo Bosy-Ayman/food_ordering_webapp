@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\food_webapp_projectt.props" />
-</Project>

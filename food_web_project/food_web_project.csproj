@@ -1,0 +1,58 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\js login\.DS_Store" />
+    <None Include="wwwroot\login css\.DS_Store" />
+    <None Include="wwwroot\login css\bootstrap\.DS_Store" />
+    <None Include="wwwroot\login css\bootstrap\mixins\.DS_Store" />
+    <None Include="wwwroot\login fonts\.DS_Store" />
+    <None Include="wwwroot\login images\.DS_Store" />
+    <None Include="wwwroot\css\.DS_Store" />
+    <None Include="wwwroot\css_login\.DS_Store" />
+    <None Include="wwwroot\fonts\.DS_Store" />
+    <None Include="wwwroot\fonts\icomoon\.DS_Store" />
+    <None Include="wwwroot\fonts\icomoon\icomoon\.DS_Store" />
+    <None Include="wwwroot\fonts_login\.DS_Store" />
+    <None Include="wwwroot\images\.DS_Store" />
+    <None Include="wwwroot\images_login\.DS_Store" />
+    <None Include="wwwroot\js login\bootstrap.min.js" />
+    <None Include="wwwroot\js login\jquery.min.js" />
+    <None Include="wwwroot\js login\main.js" />
+    <None Include="wwwroot\js login\popper.js" />
+    <None Include="wwwroot\js\.DS_Store" />
+    <None Include="wwwroot\js_login\bootstrap.min.js" />
+    <None Include="wwwroot\js_login\jquery-3.3.1.min.js" />
+    <None Include="wwwroot\js_login\main.js" />
+    <None Include="wwwroot\js_login\owl.carousel.min.js" />
+    <None Include="wwwroot\js_login\popper.min.js" />
+    <None Include="wwwroot\login css\bootstrap.min.css" />
+    <None Include="wwwroot\login css\bootstrap\mixins\_border-radius.css" />
+    <None Include="wwwroot\login css\bootstrap\mixins\_reset-text.css" />
+    <None Include="wwwroot\login css\bootstrap\mixins\_screen-reader.css" />
+    <None Include="wwwroot\login css\bootstrap\mixins\_text-hide.css" />
+    <None Include="wwwroot\login css\bootstrap\mixins\_visibility.css" />
+    <None Include="wwwroot\login css\bootstrap\utilities\_stretched-link.css" />
+    <None Include="wwwroot\login css\bootstrap\_media.css" />
+    <None Include="wwwroot\login css\style.css" />
+    <None Include="wwwroot\login images\bg.jpg" />
+    <None Include="wwwroot\login-form-20\.DS_Store" />
+    <None Include="wwwroot\login-form-20\js login\.DS_Store" />
+    <None Include="wwwroot\login-form-20\login css\.DS_Store" />
+    <None Include="wwwroot\login-form-20\login css\bootstrap\.DS_Store" />
+    <None Include="wwwroot\login-form-20\login css\bootstrap\mixins\.DS_Store" />
+    <None Include="wwwroot\login-form-20\login fonts\.DS_Store" />
+    <None Include="wwwroot\login-form-20\login images\.DS_Store" />
+    <None Include="wwwroot\login-form-20\scss login\.DS_Store" />
+    <None Include="wwwroot\login-form-20\scss login\bootstrap\.DS_Store" />
+    <None Include="wwwroot\scss_login\.DS_Store" />
+    <None Include="wwwroot\ui\.DS_Store" />
+    <None Include="wwwroot\ui\sass\.DS_Store" />
+  </ItemGroup>
+
+</Project>
