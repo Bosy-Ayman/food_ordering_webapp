@@ -4,9 +4,9 @@
     {
         public int Amount { get; set; }
         public int Code { get; set; }
-        public string CouponID { get; set; }
+        public Promotion CouponID { get; set; }
         public int Type { get; set; }
-        public string CustomerID { get; set; }
+        public Users CustomerID { get; set; }
         //foreign key??
     }
 }

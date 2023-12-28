@@ -2,5 +2,8 @@
 {
     public class HasOrder
     {
+        public OrderItems OrderItemID { get; set; }
+        public Order OrderID { get; set; }
+
     }
 }

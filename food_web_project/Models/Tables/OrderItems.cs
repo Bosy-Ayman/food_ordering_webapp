@@ -4,7 +4,7 @@
     {
         public int ImageUrl { get; set; }
         public int OrderItemID { get; set; }
-        public int CartID { get; set; }
-        public string UsersID { get; set;}
+        public Cart CartID { get; set; }
+        public Users UsersID { get; set;}
     }
 }

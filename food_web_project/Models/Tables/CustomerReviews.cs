@@ -2,6 +2,8 @@
 {
     public class CustomerReviews
     {
-        //2FOREIGN KEYS
+        public Review ReviewID { get; set; }
+        public Users CustomerId { get; set; }
+
     }
 }

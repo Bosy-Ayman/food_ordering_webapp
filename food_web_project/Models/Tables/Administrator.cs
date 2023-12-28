@@ -7,7 +7,7 @@
         public char Email { get; set; }
         public int PhoneNumber { get; set; }
         public char Password { get; set; }
-        public int UserID { get; set; }
+        public Users UserID { get; set; }
         //foreign key??
     }
 }

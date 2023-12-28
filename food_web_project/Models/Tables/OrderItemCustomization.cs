@@ -2,7 +2,7 @@
 {
     public class OrderItemCustomization
     {
-        public int OrderItemID { get; set; }
-        public string CustomizationID { get; set; }
+        public OrderItems OrderItemID { get; set; }
+        public Customisations CustomizationID { get; set; }
     }
 }
