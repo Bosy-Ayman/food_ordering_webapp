@@ -1,4 +1,6 @@
-﻿namespace food_web_project.Models.Tables
+﻿using Microsoft.AspNetCore.Mvc;
+
+namespace food_web_project.Models.Tables
 {
     public class CustomerPayments
     {
