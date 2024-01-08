@@ -1,0 +1,91 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = food_web_project
+build_property.RootNamespace = food_web_project
+build_property.ProjectDir = F:\CSAI\projects\2nd year\foodOrdering\food_ordering_webapp\food_web_project\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = F:\CSAI\projects\2nd year\foodOrdering\food_ordering_webapp\food_web_project
+build_property._RazorSourceGeneratorDebug = 
+
+[F:/CSAI/projects/2nd year/foodOrdering/food_ordering_webapp/food_web_project/Pages/Add_Items.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkX0l0ZW1zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/CSAI/projects/2nd year/foodOrdering/food_ordering_webapp/food_web_project/Pages/Change_Password.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2hhbmdlX1Bhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/CSAI/projects/2nd year/foodOrdering/food_ordering_webapp/food_web_project/Pages/Dashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGFzaGJvYXJkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/CSAI/projects/2nd year/foodOrdering/food_ordering_webapp/food_web_project/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/CSAI/projects/2nd year/foodOrdering/food_ordering_webapp/food_web_project/Pages/Forgot_Password.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRm9yZ290X1Bhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/CSAI/projects/2nd year/foodOrdering/food_ordering_webapp/food_web_project/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/CSAI/projects/2nd year/foodOrdering/food_ordering_webapp/food_web_project/Pages/MyOrders.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTXlPcmRlcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/CSAI/projects/2nd year/foodOrdering/food_ordering_webapp/food_web_project/Pages/Payment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGF5bWVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/CSAI/projects/2nd year/foodOrdering/food_ordering_webapp/food_web_project/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/CSAI/projects/2nd year/foodOrdering/food_ordering_webapp/food_web_project/Pages/Product_Admin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdF9BZG1pbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/CSAI/projects/2nd year/foodOrdering/food_ordering_webapp/food_web_project/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/CSAI/projects/2nd year/foodOrdering/food_ordering_webapp/food_web_project/Pages/SignUp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2lnblVwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/CSAI/projects/2nd year/foodOrdering/food_ordering_webapp/food_web_project/Pages/Sign_In.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2lnbl9Jbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/CSAI/projects/2nd year/foodOrdering/food_ordering_webapp/food_web_project/Pages/Single_Item.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2luZ2xlX0l0ZW0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/CSAI/projects/2nd year/foodOrdering/food_ordering_webapp/food_web_project/Pages/User_Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcl9Qcm9maWxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/CSAI/projects/2nd year/foodOrdering/food_ordering_webapp/food_web_project/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/CSAI/projects/2nd year/foodOrdering/food_ordering_webapp/food_web_project/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/CSAI/projects/2nd year/foodOrdering/food_ordering_webapp/food_web_project/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-u803rcbqoz

@@ -1,34 +1,39 @@
+using food_web_project.Models;
+
 namespace food_web_project
 {
 	public class Program
 	{
 		public static void Main(string[] args)
 		{
-			var builder = WebApplication.CreateBuilder(args);
+            var builder = WebApplication.CreateBuilder(args);
 
-			// Add services to the container.
-			builder.Services.AddRazorPages();
+            // Add services to the container.
+            builder.Services.AddRazorPages();
 
-			var app = builder.Build();
+            // Move service registration inside ConfigureServices method
+            builder.Services.AddScoped<DB>();
 
-			// Configure the HTTP request pipeline.
-			if (!app.Environment.IsDevelopment())
-			{
-				app.UseExceptionHandler("/Error");
-				// The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
-				app.UseHsts();
-			}
+            var app = builder.Build();
 
-			app.UseHttpsRedirection();
-			app.UseStaticFiles();
+            // Configure the HTTP request pipeline.
+            if (!app.Environment.IsDevelopment())
+            {
+                app.UseExceptionHandler("/Error");
+                // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
+                app.UseHsts();
+            }
 
-			app.UseRouting();
+            app.UseHttpsRedirection();
+            app.UseStaticFiles();
 
-			app.UseAuthorization();
+            app.UseRouting();
 
-			app.MapRazorPages();
+            app.UseAuthorization();
 
-			app.Run();
-		}
+            app.MapRazorPages();
+
+            app.Run();
+        }
 	}
 }

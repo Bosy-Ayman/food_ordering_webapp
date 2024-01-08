@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_web_project\\food_web_project.csproj": {}
+    "F:\\CSAI\\projects\\2nd year\\foodOrdering\\food_ordering_webapp\\food_web_project\\food_web_project.csproj": {}
   },
   "projects": {
-    "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_web_project\\food_web_project.csproj": {
+    "F:\\CSAI\\projects\\2nd year\\foodOrdering\\food_ordering_webapp\\food_web_project\\food_web_project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_web_project\\food_web_project.csproj",
+        "projectUniqueName": "F:\\CSAI\\projects\\2nd year\\foodOrdering\\food_ordering_webapp\\food_web_project\\food_web_project.csproj",
         "projectName": "food_web_project",
-        "projectPath": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_web_project\\food_web_project.csproj",
+        "projectPath": "F:\\CSAI\\projects\\2nd year\\foodOrdering\\food_ordering_webapp\\food_web_project\\food_web_project.csproj",
         "packagesPath": "C:\\Users\\toshiba\\.nuget\\packages\\",
-        "outputPath": "F:\\CSAI\\projects\\2nd year\\food_ordering_webapp\\food_web_project\\obj\\",
+        "outputPath": "F:\\CSAI\\projects\\2nd year\\foodOrdering\\food_ordering_webapp\\food_web_project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\toshiba\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,16 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.1.2, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

@@ -4,7 +4,7 @@
     {
         public int CustomizationID { get; set; }
         public int Price { get; set; }
-        public char Description { get; set; }
-        public char Availability { get; set; }
+        public string Description { get; set; }
+        public string Availability { get; set; }
     }
 }
