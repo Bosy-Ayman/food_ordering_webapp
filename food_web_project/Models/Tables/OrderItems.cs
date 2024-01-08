@@ -1,4 +1,5 @@
-﻿namespace food_web_project.Models.Tables
+﻿
+namespace food_web_project.Models.Tables
 {
     public class OrderItems
     {
@@ -6,5 +7,10 @@
         public int OrderItemID { get; set; }
         public Cart CartID { get; set; }
         public Users UsersID { get; set;}
-    }
+
+		public static implicit operator OrderItems(int v)
+		{
+			throw new NotImplementedException();
+		}
+	}
 }
