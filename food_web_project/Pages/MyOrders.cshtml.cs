@@ -1,4 +1,4 @@
-using food_web_project.Models;
+/*using food_web_project.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
@@ -35,7 +35,7 @@ namespace food_web_project.Pages
         public void OnGet()
         {
         }
-        public IActionResult OnPost()
+       *//* public IActionResult OnPost()
         {
             if (ModelState.IsValid)
             {
@@ -59,6 +59,7 @@ namespace food_web_project.Pages
                 return Page();
             }
             return Page();
-        }
+        }*//*
     }
 }
+*/
